@@ -1,0 +1,2954 @@
+,QT,AT,uri
+0,Cause,yn; summary,2577923
+1,Susceptibility,factoid,2931530
+2,Information,summary,2280394
+3,Diagnosis,summary,3691642
+4,Management,list,2686074
+5,Prognosis,factoid,2629153
+6,Information,summary,473251
+7,Anatomy,yn; summary,3154452
+8,Prognosis,yn; summary,1094083
+9,Susceptibility,yn; summary,898358
+10,Management,yn; summary,376199
+11,Management,summary,3170147
+12,Manifestation,summary,789209
+13,Complication,yn; summary,3829438
+14,Prognosis,summary,78567
+15,Management,list,2497188
+16,Cause,list,2787221
+17,Management,yn; summary,773511
+18,Diagnosis,yn; summary,2718449
+19,Prognosis,factoid,4190876
+20,Information,summary,3977762
+21,Management,summary,2708502
+22,Susceptibility,yn; summary,1152228
+23,Susceptibility,factoid,3739334
+24,Cause,list,3898833
+25,Diagnosis,yn; summary,3222748
+26,Management,list,1105939
+27,Management,yn; summary,1020593
+28,Management,summary,1261339
+29,Diagnosis,yn; summary,4236493
+30,PersonOrg,factoid,2088135
+31,Information,yn; summary,1093048
+32,NotDisease,yn,2488383
+33,Diagnosis,summary,1682941
+34,Manifestation,summary,3135656
+35,Anatomy,yn; summary,702555
+36,PersonOrg,list,3131256
+37,Susceptibility,yn; summary,1442377
+38,Anatomy,summary,2324819
+39,Manifestation,list,1756463
+40,Diagnosis,summary,2573116
+41,Management,summary,2457734
+42,OtherEffect,summary,2328154
+43,Diagnosis,list,2086207
+44,WebSearch,list,2100995
+45,Management,yn; list,4045249
+46,Diagnosis,summary,1763081
+47,Manifestation,list,4336442
+48,Information,summary,3758135
+49,Susceptibility,factoid,804489
+50,WebSearch,list,2906940
+51,Cause,summary,2992736
+52,Susceptibility,yn; summary,273369
+53,Other,factoid,1980311
+54,Management,summary,1295096
+55,Information,,2490802
+56,PersonOrg,yn; list,104354
+57,Diagnosis,summary,590232
+58,PersonOrg,yn; list,519746
+59,Management,list,1392837
+60,WebSearch,list,2828199
+61,Information,summary,1956620
+62,Cause,summary,355975
+63,PersonOrg,list,697232
+64,PersonOrg,list,269952
+65,Complication,factoid,1714146
+66,Management,list,2971771
+67,Management,list,3933043
+68,Management,factoid,3115307
+69,PersonOrg,list,1250414
+70,PersonOrg,list,4362345
+71,Management,summary,4293737
+72,Cause,summary,1815842
+73,Management,list,65594
+74,Diagnosis,yn; summary,1963470
+75,WebSearch,list,523794
+76,Cause,summary,117047
+77,Prognosis,summary,1913762
+78,Cause,yn; summary,2095818
+79,Management,list,2388212
+80,Prognosis,yn; summary,1680499
+81,Cause,yn; summary,3862981
+82,Management,summary,1144594
+83,Management,list,853295
+84,Management,list,2490153
+85,Anatomy,factoid,795609
+86,Diagnosis,summary,3169392
+87,Diagnosis,summary,2221206
+88,Susceptibility,summary,290581
+89,NotDisease,yn,3888994
+90,Management,list,3328446
+91,Management,summary,2532387
+92,Other,list,3036285
+93,Susceptibility,yn; summary,3250223
+94,Management,list,4005893
+95,Susceptibility,summary,2349546
+96,PersonOrg,factoid,1167953
+97,Management,list,2674930
+98,Manifestation,list,427767
+99,Management,list,3265491
+100,Susceptibility,factoid,2119347
+101,Management,list,4109561
+102,OtherEffect,summary,1767369
+103,Information,summary,4091193
+104,Anatomy,list,3098439
+105,Information,summary,3042115
+106,Information,summary,1280790
+107,Diagnosis,list,2560236
+108,Management,summary,3504710
+109,Information,summary,875956
+110,PersonOrg,summary,3567039
+111,Cause,yn; summary,4339334
+112,NotDisease,list,165706
+113,Management,summary,3161601
+114,Prognosis,summary,4156402
+115,Diagnosis,summary,166204
+116,Management,list,2435134
+117,Management,list,862717
+118,Information,summary,3410597
+119,Cause,yn; summary,1429307
+120,Management,summary,2743954
+121,Information,summary,3853113
+122,Prognosis,summary,1682791
+123,Management,list,3795272
+124,Prognosis,summary,175655
+125,Management,list,1119231
+126,Management,summary,1853900
+127,Information,summary,1395112
+128,Information,summary,2344833
+129,Information,summary,1257475
+130,Management,summary,3746718
+131,Anatomy,factoid,969227
+132,Diagnosis,summary,699853
+133,Susceptibility,summary,1108217
+134,Management,summary,1954637
+135,Diagnosis,summary,2955498
+136,Diagnosis,summary,408643
+137,Management,yn; summary,600248
+138,Cause,yn; summary,1532010
+139,Management,yn; summary,3713915
+140,Prognosis,summary,3139245
+141,Cause,yn; summary,2931924
+142,Manifestation,summary,151889
+143,Information,summary,1282597
+144,WebSearch,list,1079936
+145,Complication,summary,1381406
+146,Diagnosis,summary,1961162
+147,Cause,summary,74063
+148,Cause,yn; summary,3082417
+149,Management,yn; summary,3321339
+150,Cause,yn; summary,765714
+151,Management,yn; summary,815643
+152,Information,summary,2523045
+153,NotDisease,yn; summary,1147563
+154,Management,factoid,380214
+155,Prognosis,factoid,767548
+156,Susceptibility,yn; summary,1873657
+157,Diagnosis,list,1403756
+158,PersonOrg,list,1821880
+159,Information,factoid,86622
+160,PersonOrg,list,4100161
+161,Management,yn; summary,4077692
+162,PersonOrg,factoid,982936
+163,Prognosis,factoid,4415136
+164,Prognosis,summary,1570415
+165,PersonOrg,factoid,80616
+166,Diagnosis,list,855154
+167,Management,factoid,2049787
+168,Manifestation,summary,3180587
+169,Management,yn; summary,1705648
+170,Cause,yn; summary,3734262
+171,Diagnosis,summary,3263817
+172,Diagnosis,summary,461455
+173,Information,summary,2831153
+174,Management,summary,1105799
+175,PersonOrg,factoid,1703664
+176,Management,summary,1045175
+177,Cause,summary,1302420
+178,Susceptibility,yn; summary,1718967
+179,Other,list,3761268
+180,Management,list,647487
+181,Management,list,1459937
+182,Management,summary,2492275
+183,Diagnosis,summary,343576
+184,PersonOrg,summary,3358694
+185,WebSearch,summary,2122426
+186,Prognosis,list,3132634
+187,Susceptibility,summary,156518
+188,PersonOrg,list,546354
+189,Management,summary,3280859
+190,Diagnosis,factoid,3881625
+191,Management,factoid,251407
+192,OtherEffect,yn; summary,4004519
+193,Diagnosis,summary,994498
+194,Prognosis,factoid,23177
+195,Diagnosis,list,3124149
+196,Complication,factoid,2644032
+197,Cause,summary,1573420
+198,Information,summary,1662529
+199,Prognosis,factoid,2358846
+200,Information,summary,2915689
+201,Diagnosis,summary,2459753
+202,Information,summary,981101
+203,Management,list,838370
+204,Management,list,3505261
+205,Prognosis,summary,399589
+206,PersonOrg,list,3260500
+207,Susceptibility,yn; summary,1149571
+208,Manifestation,list,1361275
+209,Diagnosis,summary,3581412
+210,Diagnosis,yn; summary,356581
+211,Information,summary,4430790
+212,Anatomy,summary,2540083
+213,Manifestation,list,71314
+214,Prognosis,list,4239903
+215,Prognosis,yn; summary,609547
+216,Other,yn; list,2241364
+217,PersonOrg,yn; list,1030720
+218,Diagnosis,factoid,3245929
+219,Management,list,466436
+220,Cause,summary,1973512
+221,Management,yn; summary,2707969
+222,Management,list,3505164
+223,Information,summary,4426837
+224,Cause,yn; list,3639962
+225,Other,list,234335
+226,Other,factoid,1356725
+227,Information,summary,2675073
+228,Information,yn; summary,4191642
+229,Information,summary,1488100
+230,Diagnosis,yn; list,3379757
+231,NotDisease,yn,763813
+232,Management,list,3646352
+233,Diagnosis,summary,2696348
+234,PersonOrg,list,3941850
+235,Diagnosis,summary,3420986
+236,OtherEffect,yn; summary,34504
+237,NotDisease,factoid,155845
+238,Management,summary,1652338
+239,PersonOrg,list,662179
+240,Diagnosis,yn; summary,648830
+241,Management,list,932330
+242,Management,summary,4432514
+243,Anatomy,yn; summary,3379054
+244,Information,summary,3399203
+245,Management,summary,650
+246,Susceptibility,summary,1621182
+247,Diagnosis,summary,621470
+248,NotDisease,yn; list,2423596
+249,OtherEffect,list,2649827
+250,Anatomy,summary,3816418
+251,Susceptibility,summary,3586367
+252,OtherEffect,yn,379533
+253,Anatomy,factoid,604737
+254,Cause,summary,3508090
+255,Anatomy,list,4455129
+256,Management,list,2598651
+257,NotDisease,,3373250
+258,Cause,list,4479524
+259,Management,list,1955553
+260,Prognosis,summary,3406866
+261,WebSearch,list,1148728
+262,Complication,summary,1162447
+263,PersonOrg,list,2676520
+264,Prognosis,summary,998848
+265,Prognosis,summary,416378
+266,NotDisease,summary,4311661
+267,Anatomy,summary,435082
+268,Cause,summary,3735082
+269,Management,list,519316
+270,Cause,yn; summary,2483818
+271,Cause,yn; summary,2766423
+272,Management,list,3162126
+273,Management,yn; summary,2697311
+274,Management,list,3741845
+275,Manifestation,yn; summary,993776
+276,Information,summary,423885
+277,Cause,summary,3893448
+278,Complication,yn; summary,3119520
+279,Information,summary,2760211
+280,WebSearch,list,3951611
+281,Management,list,3145024
+282,Management,list,1929201
+283,Management,list,2497434
+284,Diagnosis,summary,2894721
+285,Susceptibility,factoid,3755842
+286,Information,summary,4084292
+287,Other,list,1099761
+288,Management,list,2674391
+289,PersonOrg,list,1439236
+290,Manifestation,list,1097181
+291,Prognosis,yn; summary,2836409
+292,Manifestation,yn; list,445530
+293,Other,list,1497235
+294,Manifestation,yn; list,2364223
+295,Diagnosis,yn; list,1208270
+296,Management,yn,2617798
+297,Manifestation,yn; list,3993862
+298,Susceptibility,yn; summary,102894
+299,OtherEffect,yn; summary,3151934
+300,Information,summary,4102001
+301,PersonOrg,list,327841
+302,PersonOrg,list,559071
+303,Manifestation,list,3261925
+304,Management,yn; list,532736
+305,Cause,yn; summary,192425
+306,PersonOrg,summary,3976336
+307,Manifestation,list,3957543
+308,Information,summary,1228268
+309,Susceptibility,yn; summary,437158
+310,Diagnosis,summary,3747974
+311,Management,list,3735992
+312,Susceptibility,yn; summary,988034
+313,Management,list,2391083
+314,Management,summary,187946
+315,Management,yn; summary,189739
+316,Diagnosis,summary,1853753
+317,Susceptibility,summary,2062678
+318,Diagnosis,summary,2256845
+319,Information,summary,3428717
+320,Diagnosis,list,2492309
+321,Manifestation,list,2718006
+322,Susceptibility,summary,3741892
+323,Susceptibility,summary,2347623
+324,Prognosis,summary,258884
+325,Prognosis,summary,3753870
+326,WebSearch,list,210453
+327,Complication,yn; summary,1269678
+328,Management,yn,1362253
+329,Information,summary,1245203
+330,OtherEffect,yn; list,3849946
+331,Complication,yn; summary,4046007
+332,Diagnosis,summary,2261191
+333,Information,summary,2770274
+334,Diagnosis,summary,4399022
+335,Complication,yn; summary,4295339
+336,Manifestation,list,1291300
+337,Cause,summary,3865056
+338,Diagnosis,summary,3841944
+339,Cause,summary,3934407
+340,Management,yn; list,981924
+341,PersonOrg,list,4381600
+342,Cause,list,1682112
+343,Management,list,2022144
+344,Anatomy,yn; list,662240
+345,Management,list,2683433
+346,Manifestation,list,1683061
+347,Manifestation,summary,54488
+348,Other,list,4102567
+349,Diagnosis,summary,84591
+350,Management,yn; list,1537651
+351,Cause,yn; summary,680668
+352,Prognosis,summary,2513112
+353,Complication,list,989344
+354,Other,factoid,2244202
+355,PersonOrg,list,1240753
+356,Prognosis,yn; summary,474737
+357,Diagnosis,factoid,22716
+358,Information,summary,3254229
+359,Management,summary,3324088
+360,Management,list,3220577
+361,Information,summary,4341232
+362,Cause,yn; summary,1622090
+363,Management,summary,374570
+364,Management,list,2653707
+365,Susceptibility,yn; summary,4376446
+366,Information,summary,3466139
+367,Diagnosis,list,599586
+368,Management,yn; summary,3121915
+369,Cause,yn; summary,3030341
+370,Management,list,3229807
+371,Information,summary,2675730
+372,Other,summary,143039
+373,PersonOrg,summary,788061
+374,Diagnosis,factoid,2313191
+375,Cause,list,235463
+376,Management,list,161485
+377,Management,list,1793804
+378,Other,list,645913
+379,Management,list,675464
+380,Information,summary,2103086
+381,PersonOrg,list,1465263
+382,Cause,yn; summary,281353
+383,Management,list,1285510
+384,Management,list,4071307
+385,Management,list,818032
+386,Information,summary,449471
+387,PersonOrg,list,2699527
+388,Diagnosis,summary,936347
+389,Management,list,617974
+390,Cause,yn; summary,164590
+391,NotDisease,summary,1359511
+392,Cause,yn; summary,1196611
+393,WebSearch,summary,2972025
+394,Manifestation,yn; list,2850896
+395,Management,list,2567647
+396,Management,list,4068166
+397,Cause,yn; list,4143121
+398,Susceptibility,yn; summary,1844394
+399,PersonOrg,list,1605815
+400,Cause,summary,3580215
+401,Management,yn; list,4472896
+402,Other,summary,3946697
+403,NotDisease,yn; list,3633279
+404,Management,list,701637
+405,Information,summary,4226011
+406,Diagnosis,summary,1167110
+407,Prognosis,summary,3224001
+408,Management,summary,1467026
+409,Diagnosis,list,1624613
+410,NotDisease,factoid,1042524
+411,Diagnosis,summary,4290588
+412,Diagnosis,list,2404430
+413,PersonOrg,summary,3445249
+414,Diagnosis,list,1960449
+415,Management,summary,2435678
+416,Diagnosis,list,1348646
+417,NotDisease,list,1072130
+418,Complication,yn; summary,2025301
+419,Cause,yn; summary,1511472
+420,Management,yn; summary,290606
+421,PersonOrg,summary,3009492
+422,Management,summary,4421692
+423,Management,summary,1681730
+424,Management,yn; summary,457455
+425,Other,summary,4006115
+426,Cause,yn; summary,2150556
+427,Information,summary,4244035
+428,Manifestation,yn; list,3614563
+429,WebSearch,list,3277310
+430,Information,summary,3778066
+431,Information,factoid,3674713
+432,Management,yn; list,950606
+433,Management,list,1265485
+434,Complication,yn; summary,3996091
+435,Manifestation,yn; list,1427000
+436,Other,list,185682
+437,NotDisease,yn,2400204
+438,Management,yn; list,391184
+439,Anatomy,yn; summary,2243519
+440,Anatomy,list,1763384
+441,Manifestation,list,121916
+442,Management,list,2134389
+443,Prognosis,factoid,167669
+444,Management,summary,1191495
+445,Susceptibility,yn; summary,1360397
+446,Management,list,2263428
+447,Management,list,3775945
+448,Management,summary,4429484
+449,Management,yn; list,986319
+450,Management,summary,2681729
+451,Management,list,2709588
+452,Management,list,1686895
+453,Management,list,2547168
+454,Diagnosis,list,3338422
+455,Cause,factoid,3344719
+456,NotDisease,yn,1746044
+457,Management,list,1856714
+458,Diagnosis,factoid,2512397
+459,Management,summary,3173705
+460,Cause,yn; summary,1869084
+461,Management,yn; summary,4111572
+462,Management,summary,3068352
+463,Cause,summary,28771
+464,Cause,yn; summary,4338619
+465,Cause,yn; summary,584866
+466,Susceptibility,yn; summary,1212976
+467,Management,list,3066666
+468,NotDisease,list,2150960
+469,Other,list,1991049
+470,Management,summary,1411917
+471,Diagnosis,summary,940817
+472,Diagnosis,list,52229
+473,Management,summary,2290580
+474,Diagnosis,yn; summary,2890917
+475,PersonOrg,list,3374907
+476,Management,list,3854055
+477,Anatomy,yn; summary,4250206
+478,Management,summary,2402817
+479,Manifestation,yn; list,3882915
+480,Cause,yn; summary,1268317
+481,Prognosis,summary,4037810
+482,Cause,summary,1586831
+483,Management,list,4270942
+484,Management,list,591381
+485,Management,list,4338495
+486,Diagnosis,yn; summary,1140835
+487,Diagnosis,summary,1035650
+488,Cause,yn; summary,2710674
+489,Information,summary,3258329
+490,Diagnosis,summary,3458198
+491,Cause,summary,1586008
+492,Diagnosis,summary,2071833
+493,Cause,yn; summary,961499
+494,Cause,summary,2669275
+495,Management,yn; summary,4456816
+496,Diagnosis,yn; factoid,4082220
+497,Management,yn; list,117498
+498,Susceptibility,yn; summary,501484
+499,Information,summary,1691952
+500,Cause,summary,156876
+501,Management,summary,2655709
+502,Management,list,500195
+503,Manifestation,list,2210883
+504,Management,list,2196763
+505,WebSearch,list,1700441
+506,Management,list,375068
+507,WebSearch,list,2794908
+508,Cause,summary,3431724
+509,Management,summary,2072547
+510,PersonOrg,factoid,3179094
+511,Prognosis,summary,3637708
+512,Diagnosis,summary,2582648
+513,Diagnosis,list,687735
+514,NotDisease,summary,3184092
+515,Cause,factoid,1627381
+516,WebSearch,list,1695521
+517,Management,summary,1962603
+518,Susceptibility,factoid,729269
+519,Management,list,4276058
+520,WebSearch,list,3055446
+521,Management,summary,3239072
+522,Management,summary,4104503
+523,PersonOrg,,2127246
+524,NotDisease,list,963824
+525,Management,list,1653666
+526,Management,list,689381
+527,Prognosis,summary,3159757
+528,Diagnosis,summary,1386590
+529,Diagnosis,summary,126059
+530,WebSearch,list,1532818
+531,PersonOrg,factoid,3614098
+532,Prognosis,yn; summary,2472582
+533,Prognosis,summary,1350041
+534,Management,list,1875971
+535,Management,yn; summary,3586165
+536,Cause,summary,1783433
+537,Cause,summary,2688973
+538,Diagnosis,yn; summary,4225819
+539,Diagnosis,list,2450784
+540,Management,summary,1689047
+541,Diagnosis,list,1154816
+542,Susceptibility,list,799206
+543,Prognosis,summary,922308
+544,Management,yn; list,1175818
+545,Management,list,634318
+546,Management,summary,2337311
+547,Other,summary,4018975
+548,Management,summary,3880340
+549,PersonOrg,list,2992964
+550,Management,list,1175168
+551,PersonOrg,list,430293
+552,NotDisease,list,1834940
+553,OtherEffect,yn; summary,887408
+554,Diagnosis,factoid,179360
+555,Management,yn; summary,527574
+556,Information,summary,99068
+557,PersonOrg,yn; list,1143695
+558,OtherEffect,summary,2950555
+559,Diagnosis,summary,2851619
+560,OtherEffect,yn,3761562
+561,Susceptibility,factoid,2890108
+562,Management,yn; list,2464162
+563,Diagnosis,list,4420510
+564,PersonOrg,list,4103730
+565,Diagnosis,summary,427505
+566,Susceptibility,factoid,2827762
+567,Management,list,3647611
+568,Anatomy,yn; summary,1585632
+569,Management,summary,2835119
+570,Other,factoid,450711
+571,Anatomy,factoid,1171635
+572,Management,list,1138973
+573,Information,summary,793874
+574,Management,summary,1006704
+575,OtherEffect,yn; summary,84427
+576,PersonOrg,list,2121339
+577,Management,list,131773
+578,Management,summary,1445507
+579,Diagnosis,list,4299999
+580,Information,yn; summary,2702218
+581,Prognosis,summary,3173164
+582,Prognosis,yn; summary,4102045
+583,Complication,yn; summary,1511955
+584,Management,summary,3903939
+585,Other,list,3273403
+586,Diagnosis,summary,3912775
+587,Management,summary,3983932
+588,Prognosis,summary,393603
+589,Diagnosis,yn; summary,1195687
+590,NotDisease,yn; summary,1807503
+591,Prognosis,factoid,1894729
+592,NotDisease,factoid,3555474
+593,Management,list,3763449
+594,Management,summary,2713195
+595,Susceptibility,summary,4005742
+596,Diagnosis,summary,654391
+597,PersonOrg,list,3358020
+598,Management,list,1989529
+599,PersonOrg,list,3742144
+600,Management,yn; summary,856108
+601,Cause,yn; summary,148726
+602,Other,summary,39360
+603,PersonOrg,factoid,2194411
+604,Prognosis,summary,906442
+605,Prognosis,summary,2097307
+606,PersonOrg,summary,24961
+607,Management,summary,4408963
+608,Diagnosis,summary,3542813
+609,Diagnosis,list,607968
+610,Cause,summary,4159904
+611,Manifestation,list,2375881
+612,Anatomy,yn; summary,1975649
+613,Prognosis,factoid,4344656
+614,Cause,yn; summary,1658018
+615,WebSearch,yn; summary,3321431
+616,Anatomy,summary,976889
+617,Prognosis,summary,1862755
+618,Information,summary,1730181
+619,Diagnosis,summary,3412567
+620,PersonOrg,list,4186004
+621,Management,list,1868286
+622,Diagnosis,summary,1847675
+623,Diagnosis,summary,4296322
+624,Management,list,1765276
+625,Prognosis,summary,140127
+626,Management,yn; summary,308916
+627,Management,yn; summary,2665830
+628,Anatomy,summary,3536371
+629,Management,yn; summary,3165786
+630,Manifestation,list,167339
+631,Anatomy,factoid,259938
+632,Information,summary,4329024
+633,Prognosis,summary,4242632
+634,Diagnosis,factoid,1074218
+635,Management,summary,1875687
+636,Information,summary,1370424
+637,Prognosis,summary,1531838
+638,Cause,yn; summary,2105141
+639,Diagnosis,summary,3871929
+640,NotDisease,factoid,2063669
+641,Information,yn; summary,4091753
+642,Cause,summary,1908116
+643,Prognosis,yn; summary,4344613
+644,Information,summary,2786891
+645,Cause,yn; summary,4443827
+646,Diagnosis,summary,3726619
+647,Information,list,626378
+648,Diagnosis,summary,679224
+649,Cause,summary,2816678
+650,PersonOrg,yn; list,2118689
+651,Information,summary,3266440
+652,Information,summary,1168633
+653,Diagnosis,summary,3166569
+654,Other,factoid,1492365
+655,Diagnosis,summary,1292510
+656,Diagnosis,summary,660002
+657,Management,list,1776849
+658,NotDisease,summary,326558
+659,Prognosis,yn; summary,1725291
+660,Cause,summary,3796466
+661,Diagnosis,summary,2993806
+662,Cause,summary,1799205
+663,Diagnosis,summary,2321014
+664,Cause,summary,1759472
+665,Susceptibility,yn; summary,457038
+666,PersonOrg,list,4228071
+667,Diagnosis,summary,3458047
+668,Cause,list,1682112
+669,Management,list,279993
+670,NotDisease,list,3616099
+671,Information,list,3150256
+672,Susceptibility,summary,314344
+673,Manifestation,list,71314
+674,Manifestation,list,405689
+675,Other,yn; summary,265476
+676,Diagnosis,summary,1593074
+677,Other,factoid,3256515
+678,NotDisease,factoid,2675456
+679,Prognosis,yn; factoid,3085456
+680,NotDisease,summary,1174114
+681,Management,yn; summary,3751341
+682,Management,list,3039808
+683,Prognosis,summary,1248497
+684,Management,list,4374646
+685,Management,list,3559139
+686,Cause,list,4027397
+687,Management,list,2320663
+688,PersonOrg,yn; list,339801
+689,NotDisease,factoid,639124
+690,NotDisease,factoid,4473905
+691,Information,summary,733519
+692,NotDisease,factoid,1303731
+693,Complication,yn; summary,4287779
+694,NotDisease,summary,1344106
+695,NotDisease,yn,2652555
+696,Management,summary,4324820
+697,NotDisease,summary,2661891
+698,Management,list,3166397
+699,Diagnosis,list,643320
+700,NotDisease,yn; factoid,3758405
+701,OtherEffect,yn; summary,433540
+702,Prognosis,yn; summary,1368241
+703,NotDisease,yn; summary,1010782
+704,Prognosis,yn; summary,1275013
+705,Management,summary,1439759
+706,Prognosis,summary,2980314
+707,Management,list,3963170
+708,PersonOrg,summary,2357472
+709,NotDisease,summary,2409511
+710,PersonOrg,list,4061758
+711,Cause,yn; summary,232003
+712,Manifestation,yn; list,578721
+713,Diagnosis,factoid,446229
+714,OtherEffect,yn; summary,924908
+715,Management,yn; list,3182288
+716,Cause,yn; summary,2243844
+717,Management,yn; list,2688292
+718,OtherEffect,yn; summary,3794599
+719,Management,list,3610916
+720,Information,summary,3748966
+721,Prognosis,summary,4065271
+722,NotDisease,summary,3517585
+723,WebSearch,list,2424947
+724,Management,list,1137255
+725,Management,summary,4064188
+726,Diagnosis,summary,2905494
+727,Other,list,616607
+728,Information,summary,1874103
+729,Information,summary,473629
+730,Anatomy,summary,3185467
+731,Information,summary,449471
+732,PersonOrg,list,433347
+733,Prognosis,summary,4377974
+734,PersonOrg,yn; summary,620042
+735,Susceptibility,summary,2213893
+736,Management,list,2676907
+737,NotDisease,factoid,343015
+738,Cause,yn; summary,536495
+739,Cause,yn; summary,1719137
+740,Diagnosis,summary,1162180
+741,Diagnosis,summary,3913526
+742,PersonOrg,summary,1751599
+743,Management,list,659493
+744,Management,list,2181383
+745,Management,yn; list,3150550
+746,Management,yn; list,1876226
+747,NotDisease,list,3844504
+748,Information,summary,1837451
+749,Other,summary,415275
+750,Manifestation,list,2598909
+751,Manifestation,summary,2720678
+752,Cause,yn; summary,2035034
+753,NotDisease,yn,58658
+754,WebSearch,list,411002
+755,Management,list,857566
+756,Anatomy,summary,1150933
+757,Information,summary,474249
+758,Diagnosis,summary,133428
+759,WebSearch,list,609712
+760,Other,list,4478792
+761,Information,summary,1401712
+762,NotDisease,summary,2221738
+763,Prognosis,summary,1416127
+764,PersonOrg,list,4421833
+765,Complication,summary,3064024
+766,Information,summary,3550215
+767,Management,list,362836
+768,PersonOrg,list,2997233
+769,Other,yn; summary,4402104
+770,Prognosis,summary,970523
+771,Cause,yn; summary,1294143
+772,Management,yn; summary,52974
+773,Management,list,3424936
+774,Susceptibility,yn; summary,1974286
+775,Information,summary,3726821
+776,Diagnosis,list,326578
+777,Cause,yn; summary,508611
+778,NotDisease,summary,2820671
+779,PersonOrg,list,2447416
+780,Susceptibility,summary,3455995
+781,Diagnosis,summary,284630
+782,Cause,yn; summary,26032
+783,Prognosis,summary,3904873
+784,Management,list,1556477
+785,NotDisease,yn,1097644
+786,NotDisease,summary,1890135
+787,Management,summary,2688369
+788,Management,list,537663
+789,Diagnosis,summary,4018637
+790,Management,list,2577242
+791,Management,list,3939165
+792,Management,summary,2529953
+793,Other,summary,412267
+794,Information,summary,705102
+795,Prognosis,summary,2294113
+796,Manifestation,yn; list,3751997
+797,Management,list,1838167
+798,Information,summary,3885468
+799,Management,summary,2780764
+800,Diagnosis,summary,920400
+801,Diagnosis,summary,2278191
+802,PersonOrg,list,905163
+803,Prognosis,summary,1982281
+804,Diagnosis,summary,1578652
+805,Management,list,1984337
+806,Management,list,4086462
+807,Cause,yn; summary,3348790
+808,Information,summary,2280163
+809,NotDisease,summary,3631815
+810,Prognosis,factoid,839402
+811,Management,list,294983
+812,Management,summary,976593
+813,Prognosis,summary,2074631
+814,Other,factoid,3530017
+815,Cause,yn; summary,1935400
+816,Cause,summary,2629485
+817,Diagnosis,summary,3509860
+818,Prognosis,factoid,305961
+819,PersonOrg,list,4443676
+820,Cause,yn; summary,1600305
+821,PersonOrg,list,1320976
+822,Information,factoid,3882856
+823,Cause,yn; summary,2309564
+824,Management,yn; list,3567501
+825,NotDisease,summary,1205916
+826,Diagnosis,summary,3625955
+827,Other,summary,2846284
+828,PersonOrg,summary,3644035
+829,Diagnosis,list,1634389
+830,Cause,yn; summary,1557393
+831,Prognosis,factoid,2310429
+832,NotDisease,yn,2856542
+833,Diagnosis,list,2030719
+834,Prognosis,factoid,2353854
+835,Management,list,178261
+836,Cause,yn; summary,793370
+837,Diagnosis,summary,2344937
+838,Prognosis,factoid,2808289
+839,Management,list,3180364
+840,PersonOrg,list,3748181
+841,Diagnosis,summary,3897889
+842,NotDisease,yn; summary,3395081
+843,Management,list,2646034
+844,Prognosis,summary,1237913
+845,Diagnosis,factoid,3587257
+846,Manifestation,yn; list,3012321
+847,Prognosis,yn; summary,835857
+848,Cause,yn; summary,3539387
+849,WebSearch,list,1098943
+850,NotDisease,list,3665281
+851,Management,list,2892709
+852,Management,list,1974303
+853,Diagnosis,summary,2455278
+854,Management,list,2714642
+855,NotDisease,list,2536742
+856,Diagnosis,list,3081127
+857,Management,list,1406009
+858,Management,list,2746708
+859,Management,list,2159773
+860,Prognosis,summary,2668028
+861,Management,yn; summary,930788
+862,Diagnosis,list,4345550
+863,Information,summary,490041
+864,Susceptibility,factoid,172953
+865,PersonOrg,list,178440
+866,PersonOrg,list,3302144
+867,Management,yn; list,2338107
+868,Diagnosis,summary,4182175
+869,Cause,yn; summary,2487866
+870,Cause,list,250760
+871,PersonOrg,summary,324870
+872,NotDisease,factoid,2934815
+873,Management,yn; list,2598820
+874,Management,list,1945388
+875,Management,list,348986
+876,WebSearch,list,3397611
+877,WebSearch,list,2838396
+878,NotDisease,yn; summary,3733993
+879,Prognosis,summary,2873019
+880,Diagnosis,summary,3566978
+881,Management,summary,752128
+882,Management,list,1111225
+883,Prognosis,factoid,3232432
+884,PersonOrg,yn; summary,3413818
+885,Information,summary,4464720
+886,Other,yn; summary,175518
+887,Other,factoid,4074275
+888,NotDisease,yn; summary,2091790
+889,PersonOrg,list,646803
+890,Diagnosis,list,230409
+891,Susceptibility,summary,846525
+892,OtherEffect,summary,883671
+893,Prognosis,yn; summary,470450
+894,Information,summary,803942
+895,Manifestation,list,2750468
+896,WebSearch,list,1453600
+897,Management,list,1940766
+898,Prognosis,summary,4410529
+899,Diagnosis,summary,3833967
+900,Information,summary,3217822
+901,Diagnosis,list,3421121
+902,NotDisease,yn; summary,3822437
+903,Diagnosis,summary,2614101
+904,Management,summary,3089048
+905,Information,summary,975037
+906,Diagnosis,list,3076724
+907,Cause,yn; summary,227497
+908,Manifestation,list,3209383
+909,Management,list,197572
+910,PersonOrg,list,3014070
+911,Diagnosis,summary,2389546
+912,Management,list,531055
+913,Management,list,261272
+914,Management,list,4373153
+915,Information,summary,2165433
+916,Management,list,4381766
+917,Diagnosis,summary,213663
+918,Management,list,2066847
+919,Information,summary,815552
+920,Information,summary,183012
+921,Prognosis,yn; summary,1055045
+922,Information,summary,4260140
+923,Management,summary,3536273
+924,Management,yn; summary,4446079
+925,Information,summary,3421047
+926,Management,list,3887060
+927,WebSearch,summary,1836596
+928,Diagnosis,list,3221880
+929,Management,yn; list,3175734
+930,OtherEffect,summary,3174127
+931,Diagnosis,summary,4272199
+932,Prognosis,factoid,3522930
+933,Management,list,4001786
+934,Management,summary,2005173
+935,Management,yn; summary,1426279
+936,Diagnosis,yn; summary,1128210
+937,Management,list,4169666
+938,Management,list,249127
+939,Manifestation,yn; list,1276469
+940,Diagnosis,summary,3488285
+941,Cause,yn; summary,379562
+942,WebSearch,list,423527
+943,NotDisease,yn,3115273
+944,Cause,yn; summary,1250440
+945,Diagnosis,summary,3152389
+946,Manifestation,list,1792095
+947,Prognosis,summary,1685046
+948,Information,summary,13411
+949,Diagnosis,summary,4252049
+950,Information,summary,3083353
+951,Prognosis,summary,4285106
+952,Cause,yn; summary,2645744
+953,Diagnosis,summary,2564006
+954,PersonOrg,list,2249069
+955,Management,yn; list,782982
+956,PersonOrg,list,2794903
+957,Other,list,828148
+958,Information,summary,113967
+959,Information,summary,3550215
+960,Prognosis,summary,3754777
+961,Management,summary,2382225
+962,Manifestation,list,1266286
+963,Diagnosis,list,3220908
+964,PersonOrg,summary,1610933
+965,Management,yn; list,907020
+966,Information,summary,2700580
+967,Prognosis,summary,2121807
+968,NotDisease,summary,1841514
+969,Diagnosis,summary,3954623
+970,NotDisease,yn; summary,526897
+971,Diagnosis,summary,2828577
+972,Cause,yn; summary,1841854
+973,Cause,list,205876
+974,PersonOrg,list,181256
+975,NotDisease,list,1017916
+976,Management,yn; list,4294714
+977,Other,factoid,2914657
+978,Management,yn; list,3144552
+979,Susceptibility,yn; summary,3886793
+980,Prognosis,summary,1672414
+981,Information,summary,2809709
+982,NotDisease,summary,2615722
+983,Management,list,1171689
+984,Manifestation,summary,2249862
+985,Diagnosis,yn; summary,3113430
+986,Diagnosis,summary,2792197
+987,Anatomy,list,2116023
+988,Complication,summary,4310135
+989,WebSearch,list,353918
+990,Cause,yn; summary,2948991
+991,Susceptibility,factoid,1927062
+992,WebSearch,list,7525
+993,Cause,list,120515
+994,Management,list,3287660
+995,Diagnosis,summary,121023
+996,NotDisease,summary,4145658
+997,PersonOrg,list,3662750
+998,Diagnosis,summary,340399
+999,Diagnosis,summary,1180279
+1000,Management,yn; list,1079476
+1001,Diagnosis,yn; summary,2422566
+1002,NotDisease,summary,4280313
+1003,NotDisease,summary,1400138
+1004,Cause,yn; summary,2484112
+1005,NotDisease,list,1395320
+1006,Cause,yn; summary,819152
+1007,Information,summary,2417561
+1008,Cause,yn; summary,1977310
+1009,NotDisease,factoid,3019013
+1010,WebSearch,list,1656
+1011,Diagnosis,list,965272
+1012,Complication,list,1735027
+1013,Management,factoid,3266324
+1014,Management,yn; list,3860727
+1015,NotDisease,yn,3479200
+1016,Information,summary,4323045
+1017,Other,yn; summary,307288
+1018,Management,list,3307427
+1019,Prognosis,yn; summary,2449743
+1020,Prognosis,summary,1013173
+1021,Cause,summary,4028661
+1022,Management,list,4160222
+1023,Prognosis,summary,3832769
+1024,Information,yn; summary,1734222
+1025,Information,summary,844815
+1026,Management,list,3600448
+1027,Cause,yn; summary,2567351
+1028,NotDisease,yn; summary,3945638
+1029,Manifestation,list,3386536
+1030,Management,list,1614390
+1031,Management,list,2858842
+1032,Prognosis,summary,4396645
+1033,Prognosis,list,136749
+1034,Diagnosis,list,3680032
+1035,Anatomy,yn; summary,2475830
+1036,Susceptibility,summary,2397966
+1037,Diagnosis,list,1469831
+1038,PersonOrg,list,3024691
+1039,Manifestation,list,1784612
+1040,Management,yn; list,602680
+1041,Management,list,1038075
+1042,NotDisease,list,674745
+1043,Cause,summary,1734285
+1044,Prognosis,summary,1120828
+1045,Cause,summary,4471001
+1046,PersonOrg,list,1651001
+1047,Other,factoid,2955136
+1048,Management,list,3965516
+1049,NotDisease,yn,277212
+1050,Susceptibility,yn; summary,1538021
+1051,Cause,list,4255093
+1052,Complication,summary,3671059
+1053,Diagnosis,yn; summary,3847116
+1054,Other,factoid,3266444
+1055,Manifestation,yn; list,1139762
+1056,Management,list,3337664
+1057,Cause,yn; summary,1690818
+1058,Cause,yn; summary,1111099
+1059,Prognosis,summary,3467691
+1060,Susceptibility,summary,2827927
+1061,Management,list,3564627
+1062,Cause,list,3624897
+1063,Cause,yn; list,2196326
+1064,Management,yn; list,3937476
+1065,Diagnosis,list,3825664
+1066,Manifestation,list,1756463
+1067,Management,list,4176662
+1068,PersonOrg,list,394359
+1069,Management,summary,1672780
+1070,Other,factoid,3595173
+1071,Cause,yn; list,463996
+1072,Management,yn; list,3463758
+1073,Diagnosis,list,2608553
+1074,Susceptibility,yn; summary,1063595
+1075,Management,yn; list,2076298
+1076,Management,list,4271168
+1077,Prognosis,yn; summary,2087051
+1078,Other,list,1822534
+1079,Diagnosis,list,321561
+1080,Diagnosis,yn; summary,252001
+1081,Diagnosis,summary,4041624
+1082,Cause,list,1315046
+1083,Susceptibility,yn; summary,592502
+1084,Diagnosis,summary,2093284
+1085,Prognosis,summary,2057887
+1086,Diagnosis,factoid,2390199
+1087,NotDisease,summary,746907
+1088,Diagnosis,summary,3366625
+1089,Information,summary,3343269
+1090,Susceptibility,yn; summary,4407498
+1091,Diagnosis,summary,2701124
+1092,Information,summary,3456845
+1093,Manifestation,summary,4270235
+1094,NotDisease,summary,3121131
+1095,Management,list,538912
+1096,Diagnosis,summary,2296769
+1097,Management,list,1677369
+1098,Information,yn; summary,1440028
+1099,Prognosis,list,3942385
+1100,Management,list,3031197
+1101,Diagnosis,list,2359529
+1102,PersonOrg,list,1685690
+1103,Complication,yn; summary,3200189
+1104,Information,summary,2676270
+1105,Management,list,379746
+1106,Information,summary,3494279
+1107,Management,list,2592077
+1108,Cause,yn; summary,3869454
+1109,Management,yn; list,976578
+1110,Management,list,151986
+1111,Management,yn; summary,3333007
+1112,NotDisease,summary,4177633
+1113,Management,list,1747749
+1114,Management,summary,3874338
+1115,PersonOrg,list,2889634
+1116,Management,yn; list,2860869
+1117,Information,summary,2549771
+1118,Information,summary,1948851
+1119,Diagnosis,list,3448865
+1120,Cause,yn; summary,1086952
+1121,Management,list,4214035
+1122,Prognosis,summary,3843076
+1123,Management,summary,1195706
+1124,Diagnosis,summary,1021257
+1125,Complication,yn; summary,2525947
+1126,Management,yn; list,3340364
+1127,Cause,summary,4165765
+1128,Susceptibility,summary,3542749
+1129,Other,summary,3069974
+1130,PersonOrg,list,3919086
+1131,Prognosis,summary,3204258
+1132,NotDisease,list,4456792
+1133,NotDisease,summary,891084
+1134,Other,list,2901249
+1135,Information,yn; summary,3259950
+1136,Other,list,1057629
+1137,Other,summary,3924429
+1138,Susceptibility,summary,323135
+1139,PersonOrg,factoid,139471
+1140,Cause,yn; summary,3913848
+1141,Management,list,3189037
+1142,NotDisease,summary,3281493
+1143,Cause,summary,1937215
+1144,Information,summary,3246571
+1145,Susceptibility,summary,3608568
+1146,Management,list,4074773
+1147,NotDisease,list,868927
+1148,Other,list,4128020
+1149,Management,yn; list,2465153
+1150,Management,summary,1260061
+1151,Management,summary,3795929
+1152,Management,summary,362766
+1153,Susceptibility,yn; summary,3226509
+1154,Susceptibility,summary,1583622
+1155,Diagnosis,list,735407
+1156,PersonOrg,list,2997138
+1157,Diagnosis,list,50357
+1158,Management,summary,1643567
+1159,Cause,yn; summary,3655079
+1160,Information,summary,2218786
+1161,Diagnosis,list,3270556
+1162,Information,summary,1867679
+1163,Management,list,900055
+1164,Diagnosis,summary,2905394
+1165,Diagnosis,yn; summary,450008
+1166,OtherEffect,summary,733623
+1167,Manifestation,yn; list,596644
+1168,Prognosis,yn; summary,1841343
+1169,Diagnosis,list,1126967
+1170,Prognosis,summary,2466340
+1171,Diagnosis,list,42391
+1172,NotDisease,yn; summary,3746629
+1173,Management,summary,1949194
+1174,Management,summary,1801142
+1175,Information,summary,3215049
+1176,Cause,factoid,3547326
+1177,Diagnosis,list,554293
+1178,NotDisease,summary,3329791
+1179,Management,list,4090535
+1180,Management,summary,4421341
+1181,Diagnosis,summary,465922
+1182,Prognosis,summary,241067
+1183,Management,list,3858091
+1184,Manifestation,list,2581127
+1185,NotDisease,factoid,409841
+1186,Prognosis,summary,2799993
+1187,Management,list,3528271
+1188,Cause,yn; summary,1580303
+1189,Cause,summary,1966340
+1190,Information,summary,1590137
+1191,Cause,yn; summary,2497860
+1192,Management,list,1020573
+1193,Complication,yn; summary,2032315
+1194,Management,summary,3203564
+1195,Management,list,624067
+1196,Prognosis,summary,2534562
+1197,Management,list,3392716
+1198,Management,list,660433
+1199,Anatomy,list,1463975
+1200,Management,summary,1613247
+1201,PersonOrg,factoid,834502
+1202,Information,summary,4474351
+1203,Information,summary,508613
+1204,Prognosis,summary,747091
+1205,Diagnosis,summary,3737105
+1206,Diagnosis,list,3275587
+1207,Cause,yn; summary,2565866
+1208,Management,yn; list,2795844
+1209,Susceptibility,summary,1712037
+1210,Management,list,1136812
+1211,Information,summary,1659504
+1212,Other,factoid,431627
+1213,Diagnosis,summary,2934797
+1214,PersonOrg,list,2878878
+1215,Diagnosis,list,2537880
+1216,Diagnosis,summary,3880922
+1217,NotDisease,list,979134
+1218,Susceptibility,yn; summary,109564
+1219,PersonOrg,list,2561146
+1220,Information,summary,472878
+1221,NotDisease,list,4075647
+1222,Management,list,2872906
+1223,Cause,list,1622594
+1224,Other,factoid,2510335
+1225,Prognosis,summary,3969956
+1226,Susceptibility,yn; summary,529356
+1227,Prognosis,summary,608527
+1228,Management,list,2658093
+1229,Diagnosis,summary,3871172
+1230,Other,yn; summary,4382563
+1231,Manifestation,summary,2779104
+1232,PersonOrg,list,2630696
+1233,Information,summary,2967586
+1234,Management,list,2872956
+1235,Anatomy,summary,4046268
+1236,Cause,yn; summary,3731903
+1237,Information,summary,2541876
+1238,Management,list,1835910
+1239,Diagnosis,yn; list,346444
+1240,PersonOrg,list,2476867
+1241,Diagnosis,factoid,839893
+1242,Management,list,1457476
+1243,Management,list,3031657
+1244,Management,list,2787829
+1245,Diagnosis,summary,3042803
+1246,Information,summary,135769
+1247,Management,summary,4227116
+1248,Prognosis,summary,2887140
+1249,Management,summary,1183617
+1250,Management,list,708194
+1251,Diagnosis,summary,856246
+1252,NotDisease,summary,1265216
+1253,Management,list,2855352
+1254,Management,yn; list,451398
+1255,Management,summary,1238628
+1256,Management,yn; list,4321518
+1257,Cause,yn; summary,730194
+1258,Management,yn; list,1499919
+1259,Prognosis,summary,281706
+1260,PersonOrg,list,485759
+1261,Prognosis,yn; summary,1769058
+1262,Manifestation,yn; summary,1757958
+1263,Management,list,2289420
+1264,Management,summary,2135277
+1265,Prognosis,yn; summary,2460852
+1266,Diagnosis,factoid,2113865
+1267,Complication,yn; summary,2317093
+1268,Information,list,1980899
+1269,Management,summary,2402168
+1270,Prognosis,summary,542711
+1271,Management,list,680739
+1272,Information,summary,2865727
+1273,Susceptibility,factoid,877202
+1274,Diagnosis,yn; list,4062754
+1275,Information,summary,3773482
+1276,NotDisease,list,1281853
+1277,Prognosis,summary,3094960
+1278,Cause,yn; summary,2524438
+1279,Susceptibility,summary,2027525
+1280,Diagnosis,yn; summary,1050219
+1281,Diagnosis,summary,512633
+1282,NotDisease,list,3573764
+1283,Cause,yn; summary,2111945
+1284,Diagnosis,summary,3193255
+1285,Cause,yn; summary,3873959
+1286,Manifestation,yn; list,2835010
+1287,Management,list,3971148
+1288,Cause,summary,3150553
+1289,Management,list,330636
+1290,Cause,factoid,194331
+1291,Cause,yn; summary,437027
+1292,Management,yn; summary,2610608
+1293,Anatomy,yn; summary,77875
+1294,Management,yn; list,2238964
+1295,Information,summary,1616364
+1296,Information,summary,670194
+1297,PersonOrg,list,3828562
+1298,Information,summary,1600073
+1299,NotDisease,list,3699911
+1300,Diagnosis,yn; summary,1919005
+1301,NotDisease,summary,1102659
+1302,Susceptibility,summary,1991599
+1303,Cause,yn; summary,2302857
+1304,Diagnosis,summary,3951646
+1305,Cause,yn; summary,828164
+1306,Manifestation,list,1848733
+1307,Prognosis,summary,4249142
+1308,Information,summary,3900661
+1309,Cause,list,2252966
+1310,Information,summary,308013
+1311,Management,yn; list,1264113
+1312,Prognosis,summary,3169576
+1313,NotDisease,summary,1761019
+1314,Prognosis,yn; summary,3706042
+1315,Management,list,1505576
+1316,Susceptibility,yn; summary,2943742
+1317,Information,summary,2631387
+1318,NotDisease,factoid,4198982
+1319,Information,yn; summary,314420
+1320,Information,summary,1788429
+1321,Information,summary,2565341
+1322,Cause,yn; summary,2897437
+1323,Management,list,1914423
+1324,PersonOrg,list,2826952
+1325,PersonOrg,yn; list,4193370
+1326,Susceptibility,summary,4323656
+1327,Information,summary,177651
+1328,OtherEffect,summary,205599
+1329,Susceptibility,yn; summary,2814785
+1330,Management,summary,1585816
+1331,Cause,yn; summary,2439029
+1332,Management,list,4216434
+1333,Cause,yn; summary,4456853
+1334,PersonOrg,factoid,476971
+1335,Management,yn; list,2096382
+1336,Diagnosis,summary,2455278
+1337,Diagnosis,yn; list,2974253
+1338,Information,factoid,2475307
+1339,Diagnosis,yn; summary,2751319
+1340,PersonOrg,list,3084077
+1341,Cause,summary,218311
+1342,Prognosis,summary,800867
+1343,Diagnosis,summary,1476330
+1344,Information,summary,3032716
+1345,Cause,summary,736589
+1346,Cause,yn; summary,4054826
+1347,Cause,yn; summary,3875951
+1348,Information,summary,368807
+1349,Other,yn; list,2700774
+1350,Diagnosis,factoid,2456144
+1351,Management,yn; list,3729680
+1352,Management,yn; summary,1031024
+1353,Susceptibility,yn; summary,553315
+1354,Prognosis,summary,772831
+1355,Management,list,1581702
+1356,Management,list,2484949
+1357,Information,summary,4268826
+1358,Management,summary,2512542
+1359,Diagnosis,list,1699353
+1360,NotDisease,yn; summary,431431
+1361,Diagnosis,yn; summary,4032624
+1362,Prognosis,summary,2354677
+1363,Manifestation,list,3631516
+1364,Information,summary,1870226
+1365,NotDisease,factoid,2923002
+1366,Information,summary,3257496
+1367,PersonOrg,factoid,2142830
+1368,Management,yn; list,2035302
+1369,Management,yn; list,510350
+1370,Prognosis,yn; summary,4180766
+1371,Manifestation,summary,3562354
+1372,WebSearch,list,2236900
+1373,Information,summary,1577538
+1374,Manifestation,list,1918010
+1375,PersonOrg,list,4172669
+1376,PersonOrg,yn; list,207044
+1377,Susceptibility,summary,4269646
+1378,PersonOrg,list,2553338
+1379,Management,summary,1411739
+1380,Prognosis,yn; summary,1305600
+1381,Diagnosis,summary,3489943
+1382,NotDisease,factoid,1428113
+1383,Cause,yn; summary,444910
+1384,Complication,yn; summary,1069502
+1385,Diagnosis,summary,4218793
+1386,Susceptibility,yn; list,350467
+1387,Cause,yn; summary,4127528
+1388,Management,list,2861405
+1389,Prognosis,summary,1750197
+1390,Information,summary,3108371
+1391,Diagnosis,summary,1368486
+1392,Information,summary,3550215
+1393,Information,summary,2822177
+1394,Diagnosis,summary,2004416
+1395,Cause,factoid,4055706
+1396,Diagnosis,summary,190230
+1397,Information,yn; summary,1477718
+1398,NotDisease,yn; summary,1348348
+1399,Prognosis,summary,3687171
+1400,NotDisease,factoid,3212400
+1401,Manifestation,summary,2843498
+1402,Information,summary,2081002
+1403,Management,yn; summary,3003797
+1404,Susceptibility,summary,3129830
+1405,WebSearch,list,845659
+1406,Information,summary,3575994
+1407,Prognosis,summary,2423572
+1408,PersonOrg,summary,2170524
+1409,OtherEffect,summary,2488975
+1410,Susceptibility,list,2527809
+1411,NotDisease,summary,4028520
+1412,Susceptibility,summary,3475874
+1413,Management,list,2465842
+1414,WebSearch,summary,3354863
+1415,Prognosis,list,3143435
+1416,PersonOrg,list,2955481
+1417,Manifestation,list,4121807
+1418,Prognosis,summary,1805865
+1419,Information,summary,2153804
+1420,Cause,yn; list,676546
+1421,Diagnosis,summary,2196941
+1422,WebSearch,list,1430875
+1423,Prognosis,yn; summary,747528
+1424,Management,list,581571
+1425,Management,summary,4150429
+1426,Prognosis,summary,2340111
+1427,Management,list,1334725
+1428,Management,list,3744472
+1429,Prognosis,yn; summary,1224217
+1430,Cause,list,2792099
+1431,NotDisease,list,1271497
+1432,Information,summary,4171269
+1433,Prognosis,summary,3613235
+1434,Other,list,3040698
+1435,OtherEffect,yn; summary,3982813
+1436,Information,summary,1653973
+1437,Susceptibility,summary,1913329
+1438,Information,yn; summary,1090374
+1439,Prognosis,yn; summary,4080546
+1440,Management,yn; list,1517098
+1441,Information,summary,1006533
+1442,NotDisease,factoid,1390346
+1443,Management,list,1437984
+1444,Management,list,2762394
+1445,Diagnosis,summary,1094065
+1446,Prognosis,summary,1264593
+1447,Complication,yn; summary,3073815
+1448,Diagnosis,summary,1660036
+1449,WebSearch,list,2698607
+1450,Information,factoid,2069404
+1451,Cause,yn; summary,1049483
+1452,NotDisease,yn,3171485
+1453,Cause,yn; summary,41205
+1454,Cause,yn; summary,4286754
+1455,Susceptibility,summary,2286762
+1456,Information,summary,1627105
+1457,Diagnosis,list,1869938
+1458,Manifestation,list,2809205
+1459,Cause,yn; summary,648106
+1460,Diagnosis,summary,3012941
+1461,Diagnosis,yn; summary,4419207
+1462,Management,yn; list,670587
+1463,Information,summary,3504757
+1464,Prognosis,summary,982459
+1465,NotDisease,factoid,2182963
+1466,Cause,summary,112239
+1467,NotDisease,factoid,1401440
+1468,PersonOrg,yn; list,1243603
+1469,Cause,yn; summary,2085036
+1470,Diagnosis,factoid,2470668
+1471,Management,summary,4375881
+1472,Prognosis,summary,873776
+1473,Diagnosis,summary,3677108
+1474,Susceptibility,factoid,2663812
+1475,Prognosis,yn; summary,3224886
+1476,Information,summary,2349701
+1477,Other,list,1152493
+1478,NotDisease,summary,108615
+1479,PersonOrg,factoid,2335823
+1480,Cause,yn; summary,3713265
+1481,Prognosis,summary,685484
+1482,Management,yn; list,3372141
+1483,Anatomy,summary,1091164
+1484,Management,list,2155591
+1485,PersonOrg,list,1541733
+1486,Cause,yn; summary,1252541
+1487,Diagnosis,list,1901601
+1488,Cause,summary,1886636
+1489,NotDisease,summary,1877074
+1490,Cause,yn; summary,1160644
+1491,Management,summary,1660252
+1492,Management,list,1634320
+1493,Information,summary,2247509
+1494,Diagnosis,list,401486
+1495,Prognosis,summary,906622
+1496,Prognosis,summary,2610830
+1497,NotDisease,list,2216637
+1498,Management,yn; list,3509121
+1499,Diagnosis,yn; summary,3476709
+1500,NotDisease,list,525675
+1501,NotDisease,yn,74773
+1502,Management,summary,1366507
+1503,Information,summary,1798497
+1504,PersonOrg,factoid,954969
+1505,Diagnosis,summary,1987975
+1506,Information,summary,3407974
+1507,Cause,yn; summary,1434797
+1508,Information,summary,3490639
+1509,NotDisease,yn,3391954
+1510,Management,summary,4078267
+1511,Management,list,520586
+1512,Prognosis,yn; list,582328
+1513,Management,list,3421258
+1514,PersonOrg,list,1138585
+1515,Management,summary,605852
+1516,Complication,yn; summary,1069490
+1517,Cause,yn; summary,4129056
+1518,Management,list,2093826
+1519,Diagnosis,summary,1448953
+1520,Cause,yn; summary,290590
+1521,Information,summary,3789131
+1522,PersonOrg,list,2108016
+1523,Other,summary,3090860
+1524,PersonOrg,factoid,1682088
+1525,Diagnosis,summary,2338612
+1526,Susceptibility,summary,2626253
+1527,Prognosis,summary,4143825
+1528,Other,yn,4203096
+1529,Diagnosis,list,834609
+1530,Management,summary,2754231
+1531,Prognosis,yn; summary,3144422
+1532,Information,yn; summary,2578706
+1533,NotDisease,yn; summary,331122
+1534,Information,summary,2501501
+1535,Susceptibility,summary,2423206
+1536,Management,list,634156
+1537,PersonOrg,list,1015919
+1538,Management,list,157060
+1539,Prognosis,summary,4172998
+1540,OtherEffect,summary,3519161
+1541,Prognosis,summary,1577002
+1542,Cause,yn; summary,2203452
+1543,Manifestation,list,4475429
+1544,Cause,yn; summary,1445529
+1545,Management,yn; list,1533508
+1546,Prognosis,summary,3147332
+1547,Diagnosis,factoid,1772466
+1548,Manifestation,summary,1866330
+1549,Susceptibility,factoid,1250
+1550,Manifestation,list,1078894
+1551,Manifestation,summary,2697791
+1552,Prognosis,summary,2883402
+1553,NotDisease,factoid,3856733
+1554,Management,list,4274928
+1555,Manifestation,list,2155909
+1556,Information,summary,3550215
+1557,Management,yn; list,1136446
+1558,Cause,yn; summary,1554208
+1559,Information,summary,2565341
+1560,Prognosis,yn; summary,4374494
+1561,Anatomy,summary,2525094
+1562,NotDisease,list,3795841
+1563,Diagnosis,factoid,482818
+1564,NotDisease,summary,1147161
+1565,PersonOrg,list,4341794
+1566,Information,yn; summary,1243051
+1567,Manifestation,list,3886461
+1568,Management,yn; list,4159946
+1569,NotDisease,list,1754963
+1570,Other,summary,3903788
+1571,Diagnosis,summary,1896272
+1572,NotDisease,list,2478165
+1573,PersonOrg,list,3124910
+1574,Diagnosis,summary,2443751
+1575,NotDisease,factoid,3310156
+1576,Diagnosis,summary,2060654
+1577,Prognosis,summary,3917357
+1578,Diagnosis,summary,3836031
+1579,Management,list,1120569
+1580,Management,yn; summary,1478578
+1581,Management,list,2745628
+1582,Complication,summary,3082237
+1583,Diagnosis,list,268766
+1584,PersonOrg,list,565802
+1585,Information,summary,3259791
+1586,Diagnosis,list,915657
+1587,Information,summary,2986658
+1588,Information,summary,988462
+1589,Susceptibility,yn; summary,3764946
+1590,Cause,yn; summary,3972710
+1591,Susceptibility,summary,1501610
+1592,Management,list,2942216
+1593,Cause,summary,3513071
+1594,Management,list,2305635
+1595,WebSearch,list,3469654
+1596,Management,list,663605
+1597,WebSearch,yn; summary,1644791
+1598,Susceptibility,summary,1186952
+1599,Information,factoid,4384342
+1600,Cause,list,4013193
+1601,Prognosis,yn; summary,1219294
+1602,Diagnosis,summary,4016979
+1603,Information,summary,4305780
+1604,PersonOrg,list,174653
+1605,Prognosis,yn; summary,3615875
+1606,OtherEffect,summary,3714703
+1607,Management,yn; list,2234962
+1608,Information,summary,1286558
+1609,Management,list,3460875
+1610,Other,summary,490800
+1611,Diagnosis,list,1143683
+1612,Management,yn; list,852462
+1613,Prognosis,summary,3579592
+1614,Diagnosis,summary,284630
+1615,Management,list,2687225
+1616,PersonOrg,summary,3480369
+1617,Management,summary,871511
+1618,Susceptibility,yn; summary,115237
+1619,Susceptibility,factoid,4344414
+1620,Cause,yn; summary,536015
+1621,Management,yn; list,3458577
+1622,Prognosis,summary,2716004
+1623,PersonOrg,list,3156110
+1624,Information,summary,1296195
+1625,Diagnosis,summary,2757935
+1626,Information,summary,2213639
+1627,Diagnosis,summary,992231
+1628,Cause,factoid,576607
+1629,Manifestation,list,2818614
+1630,NotDisease,yn,4312855
+1631,Cause,yn; summary,3820511
+1632,Management,list,1343438
+1633,Diagnosis,yn; summary,107412
+1634,Management,list,2892186
+1635,Prognosis,summary,1766562
+1636,Management,summary,821762
+1637,WebSearch,list,3752412
+1638,Prognosis,yn; summary,3924218
+1639,Information,summary,2105032
+1640,Anatomy,summary,3194582
+1641,PersonOrg,list,1830565
+1642,Management,list,2393580
+1643,Diagnosis,summary,2238423
+1644,Information,summary,1480838
+1645,Cause,yn; summary,2193133
+1646,Prognosis,summary,3846953
+1647,Cause,list,3942030
+1648,OtherEffect,list,1340600
+1649,Other,list,3202689
+1650,Cause,yn; summary,913420
+1651,Cause,list,1567999
+1652,Prognosis,summary,2935976
+1653,NotDisease,summary,3177706
+1654,Diagnosis,list,3326029
+1655,Management,yn; list,3236446
+1656,Management,yn; list,233976
+1657,Diagnosis,list,4126717
+1658,PersonOrg,list,3279040
+1659,Diagnosis,yn; summary,1493783
+1660,OtherEffect,list,4120101
+1661,Management,summary,359345
+1662,Complication,yn; summary,3548128
+1663,PersonOrg,summary,1610933
+1664,Complication,yn; summary,667019
+1665,Management,list,3888055
+1666,Information,summary,2117801
+1667,Management,list,4302299
+1668,PersonOrg,list,2900213
+1669,Information,summary,4093187
+1670,Cause,yn; summary,4466530
+1671,Prognosis,summary,23263
+1672,Management,list,1656960
+1673,Cause,yn; summary,2096494
+1674,Manifestation,list,1789135
+1675,Information,summary,3002497
+1676,PersonOrg,list,1911775
+1677,Diagnosis,factoid,985725
+1678,Information,summary,3383270
+1679,Management,list,3048970
+1680,PersonOrg,list,563028
+1681,Information,summary,1180095
+1682,Cause,yn; summary,1528906
+1683,Management,summary,2926153
+1684,Anatomy,summary,1779549
+1685,NotDisease,yn,2877976
+1686,Information,factoid,1739634
+1687,Information,summary,744405
+1688,WebSearch,list,153440
+1689,Management,list,2515340
+1690,Diagnosis,summary,867701
+1691,Prognosis,list,1242899
+1692,Management,list,1136127
+1693,Manifestation,list,1798863
+1694,Management,summary,2917499
+1695,Management,list,4455891
+1696,Information,summary,473629
+1697,Susceptibility,summary,1464663
+1698,Susceptibility,summary,2702657
+1699,Management,list,3000681
+1700,NotDisease,list,1566582
+1701,Susceptibility,yn; summary,1510288
+1702,NotDisease,yn; summary,2564108
+1703,Information,summary,3189508
+1704,Cause,yn; summary,356881
+1705,Information,yn; summary,1079619
+1706,Cause,yn; summary,908669
+1707,Management,list,950061
+1708,Information,summary,2675730
+1709,Cause,yn; summary,479018
+1710,Information,summary,1832045
+1711,Manifestation,summary,2131963
+1712,Diagnosis,list,4422516
+1713,Prognosis,yn; summary,151273
+1714,Other,summary,2721195
+1715,Other,yn; summary,4446470
+1716,Management,list,4276959
+1717,Management,list,2259638
+1718,NotDisease,list,1186957
+1719,Management,summary,2125515
+1720,Diagnosis,summary,963607
+1721,Diagnosis,summary,1378669
+1722,Management,summary,4459186
+1723,PersonOrg,yn; summary,2425724
+1724,Information,summary,3353264
+1725,Information,summary,1032186
+1726,Management,yn; list,1393626
+1727,Anatomy,yn; summary,1078892
+1728,Manifestation,list,2680253
+1729,Other,yn; summary,3031304
+1730,Cause,yn; summary,492198
+1731,Manifestation,list,3298676
+1732,WebSearch,list,1525825
+1733,Cause,yn; summary,4423484
+1734,Management,summary,2534397
+1735,Manifestation,list,3566082
+1736,PersonOrg,list,4375543
+1737,Management,list,4032020
+1738,Management,summary,4044203
+1739,Management,yn; list,528499
+1740,NotDisease,yn; summary,3145276
+1741,Cause,yn; summary,4330991
+1742,Management,summary,857091
+1743,Management,list,1963766
+1744,Management,yn; summary,3382809
+1745,Prognosis,yn; summary,1286014
+1746,Manifestation,list,1583729
+1747,Diagnosis,factoid,2670804
+1748,PersonOrg,list,3428304
+1749,PersonOrg,list,3019361
+1750,Prognosis,summary,286878
+1751,PersonOrg,list,2949167
+1752,Prognosis,summary,197877
+1753,NotDisease,summary,1295665
+1754,Management,list,2267532
+1755,Diagnosis,list,411782
+1756,Diagnosis,list,3041279
+1757,Diagnosis,summary,215325
+1758,Anatomy,summary,346403
+1759,Management,summary,2814959
+1760,Cause,yn; summary,3002895
+1761,Other,factoid,3497609
+1762,PersonOrg,summary,759212
+1763,Management,list,2490882
+1764,NotDisease,yn; summary,2696541
+1765,NotDisease,summary,654396
+1766,Other,summary,912078
+1767,Diagnosis,list,4474879
+1768,Information,summary,2663202
+1769,Management,list,3900386
+1770,Management,yn; list,3337329
+1771,OtherEffect,list,2647776
+1772,Complication,yn; summary,3467767
+1773,Management,yn; list,286644
+1774,Diagnosis,list,4144760
+1775,Management,yn; list,54482
+1776,OtherEffect,yn; summary,1113042
+1777,Management,list,2686555
+1778,Management,yn; summary,3550954
+1779,Management,list,1655193
+1780,Cause,yn; summary,2773414
+1781,NotDisease,list,1931251
+1782,Diagnosis,list,4432952
+1783,Cause,list,3899101
+1784,Diagnosis,summary,1024726
+1785,Diagnosis,factoid,3731409
+1786,Management,list,2780668
+1787,Susceptibility,summary,1403421
+1788,NotDisease,factoid,2607432
+1789,Diagnosis,summary,4180071
+1790,Management,list,491417
+1791,Diagnosis,summary,3392401
+1792,PersonOrg,list,435211
+1793,Other,summary,3388160
+1794,Susceptibility,summary,4341536
+1795,Management,list,3439720
+1796,Diagnosis,summary,2208675
+1797,Susceptibility,yn; summary,1389009
+1798,Management,summary,4081105
+1799,Management,yn; summary,4227481
+1800,Susceptibility,summary,4275899
+1801,Diagnosis,summary,3302198
+1802,PersonOrg,list,754084
+1803,PersonOrg,yn; list,4178922
+1804,Diagnosis,summary,888262
+1805,Management,list,4278270
+1806,NotDisease,summary,116046
+1807,OtherEffect,yn; summary,1200288
+1808,Diagnosis,summary,3545478
+1809,OtherEffect,summary,1206724
+1810,Management,list,750057
+1811,Complication,list,827942
+1812,Management,list,2898060
+1813,NotDisease,yn; summary,303472
+1814,PersonOrg,list,3179400
+1815,Manifestation,yn; summary,231698
+1816,Prognosis,yn; summary,2319741
+1817,Information,summary,1334718
+1818,Management,yn; list,818691
+1819,Management,yn; list,4036199
+1820,Prognosis,factoid,4387304
+1821,PersonOrg,list,2601138
+1822,Manifestation,list,723065
+1823,Management,summary,1606641
+1824,Diagnosis,list,897992
+1825,Information,summary,2839421
+1826,Information,summary,1052256
+1827,Diagnosis,list,3050313
+1828,Other,summary,747743
+1829,Cause,yn; summary,1629458
+1830,Cause,summary,1118697
+1831,Susceptibility,yn; summary,379914
+1832,PersonOrg,summary,3573833
+1833,Manifestation,list,3906890
+1834,PersonOrg,list,1921329
+1835,NotDisease,list,533478
+1836,Complication,yn; summary,3672660
+1837,Diagnosis,summary,2513058
+1838,Management,yn; summary,2373915
+1839,WebSearch,list,54436
+1840,Management,yn; summary,2870264
+1841,Management,summary,1670219
+1842,WebSearch,list,1819104
+1843,Diagnosis,factoid,2440070
+1844,Information,summary,3477530
+1845,Diagnosis,summary,2491803
+1846,NotDisease,summary,4214432
+1847,Management,list,1416645
+1848,Management,yn; list,3764757
+1849,Management,list,4174082
+1850,NotDisease,yn; summary,2407830
+1851,Information,summary,3691719
+1852,PersonOrg,list,569879
+1853,Management,yn; list,669753
+1854,PersonOrg,factoid,2936196
+1855,Prognosis,yn; summary,4129347
+1856,Diagnosis,yn; list,2642927
+1857,NotDisease,summary,2295779
+1858,Management,summary,2861967
+1859,Management,list,4397314
+1860,NotDisease,yn,1568906
+1861,Prognosis,summary,3697634
+1862,Management,summary,3405836
+1863,Cause,yn; summary,2911631
+1864,Information,summary,1645982
+1865,WebSearch,list,4288884
+1866,OtherEffect,yn; summary,1260331
+1867,Management,list,2859484
+1868,Management,list,3702082
+1869,Management,list,4105278
+1870,Management,summary,582097
+1871,Susceptibility,yn; summary,3440312
+1872,Management,summary,4392206
+1873,Diagnosis,yn; summary,4040124
+1874,Prognosis,yn; summary,3144178
+1875,Prognosis,summary,4264104
+1876,Management,summary,3822422
+1877,Management,list,2464478
+1878,NotDisease,list,3940388
+1879,Cause,summary,3672856
+1880,PersonOrg,yn; list,1624591
+1881,NotDisease,list,1886846
+1882,Information,summary,624019
+1883,OtherEffect,yn; summary,1820765
+1884,OtherEffect,yn; summary,1084551
+1885,Prognosis,factoid,1505668
+1886,Cause,yn; summary,3648762
+1887,Diagnosis,list,3583610
+1888,Other,list,177917
+1889,NotDisease,summary,1974414
+1890,Management,yn; list,2045956
+1891,Management,list,3317626
+1892,Management,yn; summary,1135120
+1893,PersonOrg,list,3934442
+1894,PersonOrg,list,3767924
+1895,Diagnosis,yn; summary,1646393
+1896,Other,yn; list,956932
+1897,Manifestation,list,1819547
+1898,Diagnosis,summary,2386636
+1899,Management,list,1564454
+1900,Management,yn; list,482895
+1901,NotDisease,summary,1972022
+1902,Susceptibility,yn; summary,63947
+1903,NotDisease,summary,1429345
+1904,WebSearch,list,751349
+1905,Manifestation,yn; list,947022
+1906,Cause,yn; summary,2156801
+1907,Susceptibility,summary,3611703
+1908,Management,list,343949
+1909,Management,list,815608
+1910,OtherEffect,yn; summary,259360
+1911,Diagnosis,summary,58359
+1912,NotDisease,yn; summary,1506083
+1913,Management,list,4353598
+1914,NotDisease,list,4419339
+1915,Susceptibility,yn; summary,182612
+1916,Cause,yn; summary,3689516
+1917,Management,summary,200697
+1918,PersonOrg,list,3857457
+1919,Management,summary,1830471
+1920,PersonOrg,summary,1716418
+1921,NotDisease,yn; summary,3030040
+1922,Susceptibility,yn; summary,3431850
+1923,Management,yn; list,1481508
+1924,Diagnosis,yn; summary,782127
+1925,PersonOrg,list,1751955
+1926,Susceptibility,summary,410648
+1927,Cause,yn; summary,510552
+1928,Diagnosis,summary,2110363
+1929,NotDisease,list,3352586
+1930,Management,list,2663436
+1931,Management,list,1459619
+1932,Prognosis,summary,2059149
+1933,PersonOrg,list,1228059
+1934,Anatomy,summary,3159641
+1935,Diagnosis,summary,352569
+1936,Diagnosis,list,2730899
+1937,Other,factoid,4298360
+1938,OtherEffect,summary,1152635
+1939,PersonOrg,list,3244957
+1940,Management,yn; list,2117887
+1941,Management,yn; list,2075429
+1942,Cause,list,1236254
+1943,Diagnosis,summary,2351382
+1944,Information,summary,325555
+1945,Susceptibility,summary,3762795
+1946,Susceptibility,summary,650061
+1947,Management,yn; summary,3756688
+1948,Diagnosis,factoid,2074661
+1949,WebSearch,list,597350
+1950,Complication,list,4403491
+1951,Anatomy,yn; summary,2247006
+1952,Cause,yn; summary,59012
+1953,Management,summary,2349001
+1954,Information,summary,1632933
+1955,Information,summary,814612
+1956,PersonOrg,list,1795179
+1957,PersonOrg,list,2711796
+1958,Other,yn; factoid,1017722
+1959,Prognosis,factoid,465680
+1960,Other,list,2076979
+1961,Management,yn; list,2530551
+1962,WebSearch,list,3244284
+1963,Manifestation,list,2373521
+1964,Prognosis,factoid,409546
+1965,Prognosis,yn; summary,3813884
+1966,Information,list,2267369
+1967,Diagnosis,yn; summary,4274040
+1968,Management,list,746337
+1969,Prognosis,yn; summary,3573103
+1970,PersonOrg,yn; list,4408003
+1971,Management,summary,2031887
+1972,Management,list,2083802
+1973,Prognosis,factoid,3360394
+1974,Anatomy,summary,2316373
+1975,Other,factoid,4292561
+1976,Management,yn; list,3143397
+1977,Other,summary,1603964
+1978,OtherEffect,list,1484310
+1979,Management,yn; list,1378610
+1980,Diagnosis,yn; list,2858934
+1981,Management,summary,2185856
+1982,Information,summary,1258749
+1983,Management,list,1231910
+1984,Diagnosis,yn; list,1590530
+1985,Management,list,1640086
+1986,Management,list,4027522
+1987,Management,list,4438179
+1988,Management,yn; list,4056584
+1989,Information,summary,3059244
+1990,Cause,yn; summary,2193245
+1991,Management,summary,1144523
+1992,Information,summary,680613
+1993,Management,summary,2574820
+1994,Management,summary,825143
+1995,PersonOrg,list,3894582
+1996,Diagnosis,yn; summary,4268117
+1997,Prognosis,summary,337656
+1998,Information,summary,2684059
+1999,Information,summary,264929
+2000,Complication,yn; summary,2841671
+2001,Diagnosis,summary,1557507
+2002,Susceptibility,yn; summary,668994
+2003,Anatomy,summary,4020184
+2004,Management,summary,992750
+2005,Susceptibility,factoid,3602329
+2006,Anatomy,summary,1093759
+2007,Susceptibility,factoid,999734
+2008,NotDisease,list,1954853
+2009,Management,list,358242
+2010,Management,yn; list,1596749
+2011,Cause,yn; summary,807991
+2012,Diagnosis,list,3249030
+2013,Diagnosis,list,3823893
+2014,Cause,yn; summary,3763156
+2015,Cause,yn; summary,1437472
+2016,Information,summary,2503819
+2017,Susceptibility,yn; summary,2501976
+2018,Cause,yn; summary,302500
+2019,Manifestation,list,3002099
+2020,Management,list,4356520
+2021,WebSearch,list,258371
+2022,Cause,yn; summary,1424873
+2023,Cause,yn; summary,2399854
+2024,Diagnosis,list,4405058
+2025,PersonOrg,list,4173387
+2026,Diagnosis,summary,2795251
+2027,PersonOrg,list,3550520
+2028,Anatomy,list,1138966
+2029,Diagnosis,summary,3497337
+2030,NotDisease,list,1713721
+2031,Prognosis,summary,3996027
+2032,Information,summary,2635205
+2033,Management,list,2583975
+2034,PersonOrg,list,2948024
+2035,NotDisease,factoid,548434
+2036,PersonOrg,yn; list,1049885
+2037,Cause,yn; summary,1694171
+2038,Diagnosis,summary,3658497
+2039,Information,summary,2569573
+2040,Susceptibility,yn; summary,4373644
+2041,Diagnosis,yn; summary,3424674
+2042,Susceptibility,summary,1941560
+2043,Cause,yn; summary,1966280
+2044,PersonOrg,list,2943783
+2045,PersonOrg,summary,775691
+2046,Prognosis,summary,2724306
+2047,Management,yn; summary,3585304
+2048,Complication,summary,1966426
+2049,Diagnosis,list,2096488
+2050,Diagnosis,list,1215446
+2051,Susceptibility,summary,2185693
+2052,NotDisease,yn; list,2227067
+2053,Management,list,1136054
+2054,Cause,list,1357810
+2055,Prognosis,summary,4141300
+2056,NotDisease,yn,3860830
+2057,Anatomy,list,4194962
+2058,Management,list,889456
+2059,Other,yn,1006065
+2060,Diagnosis,list,3669942
+2061,Management,list,3865938
+2062,Management,summary,4354446
+2063,Complication,yn; summary,1892975
+2064,Management,summary,2450281
+2065,OtherEffect,summary,3801631
+2066,Management,summary,1420591
+2067,Management,list,1117610
+2068,Prognosis,summary,16583
+2069,Prognosis,summary,1781309
+2070,Diagnosis,summary,213167
+2071,Anatomy,summary,1856474
+2072,Management,yn; summary,2193974
+2073,Prognosis,summary,3869563
+2074,Manifestation,list,4398151
+2075,Information,summary,4265346
+2076,WebSearch,list,1389433
+2077,Diagnosis,summary,2868541
+2078,Cause,yn; summary,880334
+2079,Cause,yn; summary,4003671
+2080,Prognosis,yn; summary,3326168
+2081,Diagnosis,yn; summary,1308870
+2082,OtherEffect,list,4424428
+2083,Other,list,4383339
+2084,Management,yn; list,780609
+2085,Diagnosis,yn; summary,2701045
+2086,NotDisease,yn; summary,4239528
+2087,OtherEffect,yn; summary,2843569
+2088,OtherEffect,summary,4367513
+2089,PersonOrg,list,622965
+2090,OtherEffect,summary,1723931
+2091,Diagnosis,list,2282704
+2092,Prognosis,summary,1280721
+2093,Cause,list,1932342
+2094,OtherEffect,list,2793869
+2095,Diagnosis,yn; summary,829940
+2096,Susceptibility,yn; summary,1830115
+2097,Susceptibility,yn; summary,1667092
+2098,Prognosis,factoid,1946626
+2099,Susceptibility,factoid,856539
+2100,Management,list,4147217
+2101,Management,list,4207700
+2102,Cause,factoid,2455748
+2103,Susceptibility,yn; summary,2406800
+2104,WebSearch,list,2406428
+2105,Diagnosis,summary,839831
+2106,NotDisease,summary,863798
+2107,NotDisease,list,219641
+2108,Information,summary,3586977
+2109,Information,summary,653923
+2110,Cause,yn; summary,3866640
+2111,Cause,yn; summary,307703
+2112,Anatomy,summary,2814858
+2113,Cause,summary,2620114
+2114,Management,summary,216606
+2115,Management,summary,2284840
+2116,Information,summary,4438258
+2117,Information,summary,1669596
+2118,Management,list,4434704
+2119,Diagnosis,summary,4111254
+2120,OtherEffect,yn; summary,2583160
+2121,Management,summary,2431453
+2122,Management,list,502557
+2123,NotDisease,yn; summary,4256896
+2124,Manifestation,list,402069
+2125,Cause,yn; summary,1491754
+2126,PersonOrg,list,3516678
+2127,PersonOrg,list,496316
+2128,Diagnosis,summary,161252
+2129,Other,summary,3286960
+2130,Management,summary,2495455
+2131,Complication,summary,4481548
+2132,Management,list,26481
+2133,Information,summary,4364169
+2134,Diagnosis,summary,3499310
+2135,Diagnosis,list,431296
+2136,Management,summary,1020352
+2137,Cause,yn; summary,2555217
+2138,Cause,yn; summary,3538050
+2139,WebSearch,list,3192349
+2140,Susceptibility,yn; summary,3872727
+2141,Management,yn; summary,1767512
+2142,Management,list,93077
+2143,OtherEffect,yn; list,2639536
+2144,Susceptibility,yn; summary,499021
+2145,Management,yn; list,2021711
+2146,Management,summary,4032208
+2147,Information,summary,4443466
+2148,Cause,list,649773
+2149,Prognosis,factoid,386593
+2150,Diagnosis,list,3030687
+2151,NotDisease,list,219641
+2152,PersonOrg,list,4245395
+2153,Management,list,3637168
+2154,NotDisease,summary,3602719
+2155,Diagnosis,summary,3132827
+2156,Management,list,1298335
+2157,Management,yn; list,3601021
+2158,Cause,yn; summary,3027742
+2159,Anatomy,yn; summary,4439662
+2160,Susceptibility,summary,2140269
+2161,Management,summary,1956115
+2162,OtherEffect,yn; summary,2679236
+2163,Management,yn; list,1125051
+2164,Management,list,1882778
+2165,Management,summary,4202766
+2166,Other,yn; summary,2927429
+2167,Susceptibility,factoid,416591
+2168,OtherEffect,summary,1119827
+2169,WebSearch,list,2408712
+2170,Cause,summary,2393519
+2171,NotDisease,summary,3806143
+2172,PersonOrg,list,4066539
+2173,Management,list,3538865
+2174,Management,summary,1483147
+2175,Susceptibility,yn; summary,4236395
+2176,Cause,summary,1736125
+2177,PersonOrg,list,3342139
+2178,Information,summary,2527004
+2179,Cause,yn; summary,2113002
+2180,Management,list,637539
+2181,Diagnosis,summary,3299399
+2182,Susceptibility,yn; summary,1368592
+2183,Prognosis,summary,3523674
+2184,PersonOrg,list,957938
+2185,Information,summary,1432811
+2186,Prognosis,summary,1874992
+2187,OtherEffect,summary,2891590
+2188,Cause,yn; summary,2796353
+2189,Management,yn; summary,1259059
+2190,Cause,yn; summary,2868777
+2191,Management,list,107306
+2192,Information,summary,4243917
+2193,Susceptibility,list,1181566
+2194,Other,summary,1997560
+2195,OtherEffect,summary,558840
+2196,NotDisease,summary,641342
+2197,Cause,factoid,2372618
+2198,Cause,factoid,505512
+2199,OtherEffect,summary,1696233
+2200,Information,summary,4473246
+2201,Cause,yn; summary,1467274
+2202,PersonOrg,factoid,769876
+2203,Management,summary,1290422
+2204,Management,summary,3762436
+2205,WebSearch,list,3052828
+2206,NotDisease,summary,861208
+2207,Cause,yn; summary,2728869
+2208,Information,summary,3904982
+2209,Management,list,1714274
+2210,Other,list,3296798
+2211,Manifestation,list,461243
+2212,Prognosis,factoid,4088253
+2213,Management,factoid,297079
+2214,Diagnosis,summary,4106859
+2215,Management,factoid,2463328
+2216,Diagnosis,yn; summary,1238913
+2217,Other,summary,4434265
+2218,Manifestation,list,1834509
+2219,WebSearch,factoid,3988217
+2220,PersonOrg,list,1244717
+2221,Management,list,4380185
+2222,Manifestation,yn; list,4381111
+2223,Diagnosis,list,2991214
+2224,Management,yn; summary,1586496
+2225,Manifestation,list,3729612
+2226,Cause,yn; summary,1699546
+2227,Diagnosis,summary,1491522
+2228,Diagnosis,list,3409385
+2229,Management,list,1652120
+2230,Prognosis,factoid,2838655
+2231,Cause,summary,2649443
+2232,PersonOrg,list,956069
+2233,NotDisease,factoid,131084
+2234,Management,summary,65535
+2235,Management,list,1584820
+2236,Management,summary,2698424
+2237,Information,summary,667315
+2238,NotDisease,yn,1955883
+2239,Susceptibility,yn; summary,3821912
+2240,Manifestation,list,241684
+2241,Prognosis,yn; summary,2414493
+2242,Management,summary,3246730
+2243,OtherEffect,factoid,2196808
+2244,Manifestation,list,1294507
+2245,Management,summary,778000
+2246,Management,summary,2592183
+2247,Management,yn; list,2303526
+2248,NotDisease,summary,1449948
+2249,PersonOrg,factoid,2391438
+2250,Other,list,3857961
+2251,Information,yn; summary,3511942
+2252,Prognosis,yn; summary,3253468
+2253,Prognosis,summary,2613605
+2254,NotDisease,yn; summary,1914512
+2255,Diagnosis,list,3543975
+2256,Prognosis,yn; summary,3753392
+2257,Other,yn; summary,4009584
+2258,Prognosis,summary,332379
+2259,NotDisease,summary,1605760
+2260,Diagnosis,list,2646557
+2261,Other,factoid,2043253
+2262,Manifestation,summary,2941253
+2263,Diagnosis,summary,3351344
+2264,NotDisease,list,79060
+2265,Prognosis,factoid,4421271
+2266,Cause,summary,57436
+2267,OtherEffect,list,2872044
+2268,Manifestation,yn; summary,3591045
+2269,Management,summary,2731749
+2270,Diagnosis,summary,3841759
+2271,Cause,yn; summary,1267905
+2272,Other,yn; summary,3849776
+2273,Information,summary,644869
+2274,PersonOrg,list,360696
+2275,Cause,yn; summary,2875403
+2276,Manifestation,list,511082
+2277,Management,list,2106899
+2278,NotDisease,yn; summary,25237
+2279,WebSearch,list,812221
+2280,Other,factoid,2034557
+2281,NotDisease,summary,642803
+2282,Management,summary,4307207
+2283,Manifestation,yn; summary,2989401
+2284,NotDisease,factoid,1149020
+2285,Management,summary,2050609
+2286,Manifestation,yn; summary,112643
+2287,PersonOrg,list,1516680
+2288,Cause,list,2435711
+2289,Manifestation,list,1895302
+2290,Management,list,3028848
+2291,Cause,yn; summary,644916
+2292,Information,summary,3031981
+2293,Diagnosis,yn; summary,2136154
+2294,Diagnosis,factoid,1847928
+2295,Information,summary,1727616
+2296,Management,summary,2888281
+2297,Management,summary,2473855
+2298,Cause,summary,3191742
+2299,PersonOrg,yn; list,1849765
+2300,Cause,summary,1730771
+2301,Prognosis,factoid,2153950
+2302,Management,list,721919
+2303,Management,list,3617049
+2304,Management,summary,1959200
+2305,WebSearch,summary,1590393
+2306,Manifestation,list,512948
+2307,Other,factoid,175782
+2308,Diagnosis,summary,2148650
+2309,Susceptibility,factoid,1600883
+2310,Management,yn; summary,3049779
+2311,Prognosis,factoid,2648977
+2312,Prognosis,summary,2925424
+2313,Management,summary,416503
+2314,Management,summary,1133663
+2315,Diagnosis,factoid,4363677
+2316,PersonOrg,list,4344421
+2317,Management,summary,3475861
+2318,Cause,yn; summary,1283604
+2319,Cause,yn; summary,1899904
+2320,Manifestation,list,2418897
+2321,Prognosis,yn; summary,1714849
+2322,Information,summary,2086125
+2323,Prognosis,yn; summary,4383479
+2324,Management,summary,1249928
+2325,Cause,summary,3606907
+2326,PersonOrg,list,1744831
+2327,Information,summary,468710
+2328,OtherEffect,yn; summary,4079705
+2329,Management,summary,637539
+2330,Management,summary,2781514
+2331,Susceptibility,yn; summary,3207022
+2332,Information,summary,3469986
+2333,Other,factoid,1629518
+2334,NotDisease,factoid,1699593
+2335,NotDisease,yn; factoid,649949
+2336,Diagnosis,summary,4315062
+2337,PersonOrg,list,3993002
+2338,Manifestation,list,3525497
+2339,Diagnosis,list,2215351
+2340,Management,factoid,3155898
+2341,Management,list,3958456
+2342,NotDisease,factoid,3052190
+2343,Cause,yn; summary,2489085
+2344,Other,yn; summary,1744538
+2345,Management,yn; list,553765
+2346,Prognosis,factoid,582800
+2347,Diagnosis,yn; summary,4445106
+2348,NotDisease,factoid,1666371
+2349,PersonOrg,list,1981812
+2350,Management,list,988006
+2351,Cause,yn; summary,1698778
+2352,Information,summary,763007
+2353,Complication,yn; summary,2347854
+2354,Diagnosis,list,2488790
+2355,Diagnosis,summary,4409308
+2356,Other,list,1423342
+2357,Information,factoid,3401918
+2358,Diagnosis,summary,794168
+2359,Management,yn; summary,4381513
+2360,Susceptibility,yn; summary,3558296
+2361,Susceptibility,summary,1254383
+2362,NotDisease,yn; summary,1247406
+2363,Diagnosis,yn; summary,899188
+2364,Manifestation,list,3455453
+2365,Diagnosis,summary,721888
+2366,Susceptibility,yn; summary,1126914
+2367,Prognosis,yn; summary,2956641
+2368,Cause,summary,12099
+2369,Management,summary,851774
+2370,PersonOrg,yn; list,1014137
+2371,WebSearch,summary,1696563
+2372,Prognosis,yn; summary,2493202
+2373,Information,yn; factoid,2271402
+2374,Information,summary,2454954
+2375,Management,summary,3299818
+2376,Diagnosis,yn; summary,3975732
+2377,Diagnosis,summary,2630070
+2378,Cause,yn; summary,331998
+2379,PersonOrg,list,130975
+2380,Cause,yn; summary,3186857
+2381,OtherEffect,yn; summary,2225246
+2382,Cause,list,1299518
+2383,Prognosis,factoid,3581927
+2384,Susceptibility,summary,883282
+2385,Cause,summary,1315943
+2386,Information,factoid,4183232
+2387,Management,summary,4234583
+2388,Prognosis,factoid,3694830
+2389,WebSearch,summary,733828
+2390,NotDisease,summary,3121759
+2391,Management,yn; summary,4231629
+2392,Cause,summary,1730771
+2393,Management,summary,3496704
+2394,Diagnosis,summary,1136074
+2395,Information,list,4008128
+2396,Manifestation,list,3885239
+2397,Prognosis,yn; summary,1926151
+2398,Management,summary,675114
+2399,Information,summary,3731869
+2400,Management,summary,1944097
+2401,Cause,yn; summary,4464303
+2402,Cause,yn; summary,1829802
+2403,Management,summary,3815288
+2404,Diagnosis,summary,2969639
+2405,Management,summary,1845354
+2406,PersonOrg,list,2073955
+2407,Prognosis,factoid,4256140
+2408,Management,list,1118191
+2409,Management,summary,1280861
+2410,Other,summary,3232431
+2411,Information,summary,1730181
+2412,Information,summary,2642985
+2413,Prognosis,summary,727001
+2414,Other,factoid,2784473
+2415,Susceptibility,factoid,3112646
+2416,Diagnosis,summary,4121007
+2417,Management,yn; summary,3570708
+2418,Prognosis,factoid,2626626
+2419,NotDisease,yn; list,3937576
+2420,Cause,yn; summary,3870239
+2421,Other,factoid,781433
+2422,Cause,yn; summary,4177155
+2423,Management,list,735537
+2424,NotDisease,factoid,2108720
+2425,Prognosis,factoid,3603771
+2426,OtherEffect,yn; summary,3771537
+2427,Diagnosis,factoid,1066454
+2428,Management,yn; summary,2560870
+2429,Diagnosis,summary,4458261
+2430,Management,summary,3920127
+2431,Prognosis,yn; summary,3019294
+2432,Cause,yn; summary,2714126
+2433,Management,yn; summary,3246538
+2434,Management,yn; factoid,1887390
+2435,Prognosis,summary,3072264
+2436,Management,list,3499257
+2437,Cause,summary,2294209
+2438,Diagnosis,summary,2768127
+2439,Other,yn; summary,3750831
+2440,Diagnosis,yn; summary,2013233
+2441,Prognosis,yn; summary,3416319
+2442,Prognosis,yn; summary,319570
+2443,Information,summary,3393040
+2444,Diagnosis,summary,3931898
+2445,Information,summary,4477945
+2446,Management,summary,1448106
+2447,PersonOrg,list,3733329
+2448,Information,summary,473629
+2449,WebSearch,summary,1455936
+2450,Cause,yn; summary,3218869
+2451,Susceptibility,summary,1036934
+2452,Information,list,301913
+2453,Management,list,2143546
+2454,Diagnosis,summary,2265919
+2455,Diagnosis,factoid,1462239
+2456,Information,summary,1278214
+2457,Prognosis,summary,93686
+2458,PersonOrg,list,1940004
+2459,OtherEffect,summary,4157834
+2460,Diagnosis,summary,898314
+2461,Cause,summary,3545847
+2462,Information,summary,1980758
+2463,Diagnosis,list,530518
+2464,Prognosis,summary,1604169
+2465,Information,summary,1640081
+2466,Management,factoid,2759813
+2467,Management,list,3478079
+2468,Diagnosis,list,610013
+2469,PersonOrg,list,3051181
+2470,Management,yn; summary,2565083
+2471,Cause,yn; summary,2650074
+2472,Information,summary,560073
+2473,Prognosis,yn; summary,4247305
+2474,Other,summary,3876107
+2475,Management,yn; summary,1814255
+2476,Management,summary,4395978
+2477,Diagnosis,yn; summary,3016059
+2478,NotDisease,list,3105689
+2479,WebSearch,summary,1455373
+2480,Cause,summary,540868
+2481,Diagnosis,factoid,2290742
+2482,WebSearch,yn; summary,3916838
+2483,Diagnosis,summary,613503
+2484,Diagnosis,summary,1168237
+2485,WebSearch,summary,1338761
+2486,Susceptibility,factoid,2817829
+2487,OtherEffect,yn; summary,3757009
+2488,Diagnosis,summary,2970549
+2489,Information,summary,155239
+2490,Information,summary,1916726
+2491,Information,summary,1859548
+2492,Management,yn; summary,3953434
+2493,Diagnosis,summary,474014
+2494,Management,yn; summary,1711167
+2495,Information,summary,422546
+2496,Manifestation,list,3002099
+2497,Cause,yn; summary,1284464
+2498,Cause,summary,1301351
+2499,Susceptibility,list,1755404
+2500,NotDisease,yn; summary,4097666
+2501,OtherEffect,summary,3776773
+2502,Information,summary,1588588
+2503,PersonOrg,factoid,3168932
+2504,Management,summary,4010605
+2505,Susceptibility,factoid,3494300
+2506,Information,factoid,1532839
+2507,Diagnosis,yn; summary,2801491
+2508,Management,list,1928566
+2509,Information,summary,3035594
+2510,Susceptibility,yn; summary,948472
+2511,Susceptibility,yn; summary,3661703
+2512,Prognosis,summary,803371
+2513,Susceptibility,yn; summary,1515812
+2514,Management,yn; summary,325364
+2515,Manifestation,list,2660232
+2516,Complication,summary,665857
+2517,Management,summary,3853749
+2518,PersonOrg,list,3306264
+2519,Other,yn; list,1365882
+2520,Other,factoid,2734148
+2521,Diagnosis,list,3246217
+2522,NotDisease,list,2625914
+2523,Management,list,228174
+2524,Management,summary,241361
+2525,Prognosis,factoid,225438
+2526,Management,summary,2182846
+2527,Diagnosis,summary,3404236
+2528,Manifestation,list,1782921
+2529,Prognosis,summary,793036
+2530,Diagnosis,summary,259244
+2531,Information,summary,1632896
+2532,Susceptibility,factoid,4280578
+2533,Diagnosis,list,3070046
+2534,Cause,summary,4081723
+2535,Management,summary,3473459
+2536,Manifestation,list,4076303
+2537,Prognosis,yn; summary,2640735
+2538,Diagnosis,summary,3377614
+2539,Susceptibility,summary,3846535
+2540,Cause,summary,1779212
+2541,Susceptibility,yn; summary,2575927
+2542,Susceptibility,summary,365807
+2543,Management,summary,12461
+2544,Management,yn; summary,2500414
+2545,Diagnosis,summary,1525234
+2546,Diagnosis,list,403391
+2547,Management,summary,846759
+2548,Diagnosis,summary,3104768
+2549,PersonOrg,list,901595
+2550,Management,list,2004480
+2551,Prognosis,summary,2814599
+2552,Complication,yn; summary,3314170
+2553,Diagnosis,summary,1498869
+2554,NotDisease,yn; summary,494588
+2555,Diagnosis,list,596803
+2556,PersonOrg,list,1359493
+2557,Prognosis,yn; summary,282626
+2558,Other,list,2850034
+2559,OtherEffect,yn; summary,4429319
+2560,Diagnosis,summary,1369728
+2561,NotDisease,factoid,1443160
+2562,Management,summary,159867
+2563,Complication,yn; summary,1372698
+2564,Management,factoid,2101339
+2565,Management,yn; summary,1728578
+2566,Management,summary,1971586
+2567,Diagnosis,summary,2801511
+2568,PersonOrg,summary,2560638
+2569,Prognosis,factoid,1577482
+2570,Manifestation,yn; summary,4207334
+2571,Information,factoid,3598636
+2572,Diagnosis,yn; summary,2108225
+2573,Prognosis,factoid,1038302
+2574,Diagnosis,summary,973171
+2575,Susceptibility,factoid,3908358
+2576,Diagnosis,summary,4053603
+2577,Cause,yn; summary,2970778
+2578,Diagnosis,summary,2618887
+2579,Other,list,564866
+2580,PersonOrg,factoid,3191025
+2581,Other,factoid,2918234
+2582,Prognosis,summary,3534885
+2583,Prognosis,summary,1976671
+2584,NotDisease,yn; summary,1368901
+2585,Diagnosis,list,131942
+2586,Other,yn; list,3716751
+2587,Prognosis,summary,4428893
+2588,Other,yn; summary,4311515
+2589,Manifestation,list,873829
+2590,Information,summary,2949005
+2591,Information,summary,966539
+2592,Prognosis,yn; summary,4147332
+2593,NotDisease,summary,2095798
+2594,Management,summary,4208123
+2595,Cause,yn; summary,1365443
+2596,Management,yn; summary,4183781
+2597,Management,list,1564108
+2598,PersonOrg,list,3822001
+2599,PersonOrg,list,2893117
+2600,Management,summary,22832
+2601,Susceptibility,factoid,2035398
+2602,Cause,yn; summary,3219945
+2603,Management,summary,4062882
+2604,Other,factoid,132831
+2605,Management,factoid,3023378
+2606,Management,yn; summary,3419796
+2607,Management,factoid,3050437
+2608,Cause,summary,2202458
+2609,Prognosis,factoid,1183306
+2610,Manifestation,list,1853335
+2611,Susceptibility,summary,3957057
+2612,Information,summary,1358765
+2613,Diagnosis,list,3823231
+2614,Information,summary,473629
+2615,Manifestation,list,1201487
+2616,Management,summary,3521693
+2617,Diagnosis,list,4224989
+2618,WebSearch,list,4278353
+2619,Manifestation,summary,2567123
+2620,Cause,yn; summary,2564636
+2621,Management,,1346047
+2622,Prognosis,summary,1728195
+2623,Susceptibility,factoid,4128043
+2624,Susceptibility,factoid,1859740
+2625,Anatomy,summary,1560783
+2626,Diagnosis,summary,4253325
+2627,Prognosis,factoid,4039779
+2628,Information,summary,1638651
+2629,Cause,summary,1730771
+2630,Information,summary,3985241
+2631,Management,summary,1648354
+2632,PersonOrg,list,1737710
+2633,Diagnosis,summary,3364494
+2634,Prognosis,factoid,3472105
+2635,Anatomy,summary,271235
+2636,Management,summary,695971
+2637,Prognosis,yn; summary,2478005
+2638,WebSearch,summary,585204
+2639,Management,yn; summary,2499927
+2640,Susceptibility,yn; summary,496987
+2641,Cause,yn; summary,1553465
+2642,Management,summary,3675463
+2643,Diagnosis,yn; summary,3953357
+2644,Prognosis,factoid,3190590
+2645,Other,yn; summary,898880
+2646,Diagnosis,yn; summary,3191159
+2647,Information,summary,1975042
+2648,Susceptibility,summary,1429430
+2649,Diagnosis,yn; summary,3225678
+2650,Other,list,167411
+2651,Prognosis,yn; summary,2395351
+2652,Manifestation,summary,3196288
+2653,WebSearch,summary,3207889
+2654,NotDisease,factoid,1389607
+2655,Susceptibility,yn; summary,4120398
+2656,Complication,list,3526341
+2657,Management,yn; summary,1269065
+2658,Susceptibility,summary,3782860
+2659,Diagnosis,summary,256422
+2660,Information,summary,484109
+2661,Management,summary,1238618
+2662,Manifestation,list,519536
+2663,OtherEffect,summary,477904
+2664,NotDisease,summary,1872154
+2665,PersonOrg,yn; list,2982690
+2666,Management,list,4298248
+2667,Susceptibility,yn; summary,3819755
+2668,Manifestation,list,3858462
+2669,Manifestation,summary,34491
+2670,Manifestation,list,2670999
+2671,Information,summary,2503879
+2672,Susceptibility,yn; summary,1824974
+2673,Cause,yn; summary,1335576
+2674,Diagnosis,summary,1303122
+2675,Prognosis,factoid,2482021
+2676,Other,factoid,2384785
+2677,Diagnosis,summary,154518
+2678,Management,list,3410974
+2679,NotDisease,summary,1732897
+2680,Diagnosis,list,4031015
+2681,Management,summary,698676
+2682,Management,list,2346842
+2683,PersonOrg,list,2074726
+2684,Cause,summary,1742160
+2685,Information,summary,1320448
+2686,Manifestation,list,3859916
+2687,Other,list,2721510
+2688,WebSearch,summary,3163512
+2689,Management,summary,2329514
+2690,Information,factoid,915018
+2691,Information,yn; summary,1550003
+2692,Diagnosis,list,1828124
+2693,Diagnosis,yn; summary,1921798
+2694,Cause,list,1301351
+2695,Complication,yn; summary,311385
+2696,Susceptibility,summary,2290220
+2697,PersonOrg,list,4324125
+2698,Cause,summary,633372
+2699,Cause,yn; summary,2829617
+2700,Management,summary,3075839
+2701,Diagnosis,summary,411550
+2702,Other,factoid,2764754
+2703,PersonOrg,list,3069863
+2704,Manifestation,yn; list,2463590
+2705,Management,list,2501779
+2706,Prognosis,summary,1547541
+2707,PersonOrg,list,3067447
+2708,NotDisease,summary,1895924
+2709,Management,yn; summary,608560
+2710,Anatomy,yn; summary,3825046
+2711,Cause,summary,3557295
+2712,Cause,list,4403792
+2713,Manifestation,list,1004475
+2714,Prognosis,summary,3855467
+2715,Management,summary,2791104
+2716,Prognosis,summary,1811837
+2717,Management,summary,1080524
+2718,Other,summary,2241085
+2719,NotDisease,summary,2177599
+2720,Information,summary,1306398
+2721,Other,summary,631367
+2722,Information,summary,3289089
+2723,Cause,summary,1730771
+2724,Management,yn; summary,907040
+2725,Prognosis,summary,1551937
+2726,Information,summary,4017364
+2727,PersonOrg,list,825328
+2728,Management,list,1627814
+2729,Prognosis,summary,3781768
+2730,Manifestation,summary,3499192
+2731,Information,summary,3324905
+2732,Information,summary,3120113
+2733,Cause,summary,3942030
+2734,Information,summary,3550215
+2735,Information,summary,3725157
+2736,Management,yn; summary,104504
+2737,NotDisease,factoid,1205072
+2738,NotDisease,yn; summary,1196085
+2739,Management,list,1723367
+2740,Cause,yn; summary,3620929
+2741,Cause,yn; summary,4040878
+2742,Management,summary,2649552
+2743,Diagnosis,list,818336
+2744,Management,yn; list,1759121
+2745,Management,yn; list,391184
+2746,Diagnosis,summary,2878896
+2747,NotDisease,factoid,2190968
+2748,Management,yn; summary,3639882
+2749,Management,list,1409335
+2750,Diagnosis,factoid,2032301
+2751,Prognosis,summary,2471027
+2752,WebSearch,summary,632896
+2753,Information,summary,3921062
+2754,Manifestation,summary,150452
+2755,Diagnosis,list,2432583
+2756,PersonOrg,list,4034555
+2757,WebSearch,summary,866029
+2758,Cause,summary,48090
+2759,Diagnosis,summary,3341315
+2760,Prognosis,yn; summary,2217514
+2761,Management,summary,1472687
+2762,Information,summary,1058166
+2763,Other,factoid,2175169
+2764,Diagnosis,list,2375448
+2765,Management,summary,2507064
+2766,Diagnosis,summary,4355959
+2767,Information,summary,3811920
+2768,Diagnosis,summary,2572482
+2769,Diagnosis,summary,104927
+2770,Prognosis,summary,3056765
+2771,Prognosis,factoid,2075057
+2772,Management,summary,1262097
+2773,Management,list,3330887
+2774,NotDisease,summary,160857
+2775,Susceptibility,summary,3882194
+2776,Diagnosis,factoid,3381459
+2777,Diagnosis,list,2473387
+2778,Prognosis,summary,4168120
+2779,Management,summary,1030642
+2780,OtherEffect,summary,3292678
+2781,OtherEffect,summary,4169884
+2782,Other,list,3993900
+2783,Diagnosis,summary,2818347
+2784,Manifestation,list,2701983
+2785,PersonOrg,factoid,2173528
+2786,Other,factoid,3430988
+2787,Management,summary,389715
+2788,Information,summary,2899110
+2789,NotDisease,summary,4044646
+2790,Management,summary,1760002
+2791,Prognosis,summary,4223761
+2792,Diagnosis,summary,988680
+2793,Cause,yn; summary,4051197
+2794,Management,yn; summary,1307800
+2795,NotDisease,factoid,2605943
+2796,Other,factoid,2389639
+2797,Other,summary,394063
+2798,Diagnosis,yn; summary,3324338
+2799,Management,summary,1963782
+2800,Cause,summary,492876
+2801,Management,summary,2249429
+2802,Cause,summary,2048675
+2803,Diagnosis,summary,571645
+2804,Other,yn; list,469579
+2805,Prognosis,factoid,3477482
+2806,Management,list,1165980
+2807,WebSearch,summary,2384230
+2808,Manifestation,summary,4186390
+2809,Management,list,1034140
+2810,PersonOrg,list,3607932
+2811,Management,list,1899662
+2812,Susceptibility,factoid,3714544
+2813,NotDisease,list,3434798
+2814,Information,summary,1047888
+2815,Prognosis,factoid,1411177
+2816,Prognosis,summary,1088090
+2817,Manifestation,list,729788
+2818,Management,yn; summary,473934
+2819,Management,list,445880
+2820,Management,yn; summary,4111081
+2821,Management,summary,1959044
+2822,Management,summary,2669484
+2823,Manifestation,yn; summary,2104606
+2824,Diagnosis,list,1901758
+2825,Diagnosis,summary,3133088
+2826,Prognosis,factoid,147103
+2827,Cause,yn; summary,3645637
+2828,Management,summary,3243897
+2829,Cause,summary,2325780
+2830,WebSearch,summary,725862
+2831,Diagnosis,factoid,2406262
+2832,Manifestation,list,3822895
+2833,Management,list,1731325
+2834,Prognosis,yn; summary,2963560
+2835,Cause,list,4301337
+2836,Cause,summary,1586311
+2837,Management,summary,3660336
+2838,NotDisease,factoid,1232549
+2839,Susceptibility,factoid,4121601
+2840,NotDisease,yn; summary,2093562
+2841,Manifestation,list,3764777
+2842,Cause,yn; summary,571161
+2843,Management,list,1028945
+2844,NotDisease,list,2315530
+2845,Management,summary,1334733
+2846,Information,summary,1690308
+2847,Management,summary,2619480
+2848,Other,yn; summary,2158601
+2849,Information,summary,2553655
+2850,WebSearch,summary,3702681
+2851,Cause,yn; summary,1797667
+2852,Management,list,2727334
+2853,Cause,summary,2536786
+2854,Cause,yn; summary,104898
+2855,Other,yn; list,1093074
+2856,Information,summary,3891424
+2857,Cause,yn; summary,639372
+2858,Diagnosis,summary,1937792
+2859,Information,factoid,2758188
+2860,Management,list,3282064
+2861,Cause,factoid,2192985
+2862,Diagnosis,summary,395938
+2863,PersonOrg,summary,897294
+2864,Diagnosis,factoid,1833474
+2865,Prognosis,summary,3234336
+2866,Other,summary,4370721
+2867,Management,summary,525367
+2868,Susceptibility,yn; summary,2888312
+2869,Management,list,3474646
+2870,Diagnosis,factoid,3346379
+2871,Management,yn; summary,2717969
+2872,Management,summary,4282206
+2873,PersonOrg,list,1043205
+2874,Cause,summary,1135423
+2875,PersonOrg,list,2926841
+2876,Diagnosis,summary,3636619
+2877,Management,summary,2458985
+2878,Management,summary,4395905
+2879,Management,summary,3386229
+2880,Management,summary,1554113
+2881,Other,factoid,1795072
+2882,PersonOrg,list,2753162
+2883,Information,summary,301127
+2884,Information,summary,810683
+2885,Manifestation,list,3722369
+2886,Management,summary,4066529
+2887,Diagnosis,factoid,590649
+2888,Susceptibility,factoid,2488593
+2889,Cause,yn; summary,540755
+2890,OtherEffect,list,1465159
+2891,Management,summary,456113
+2892,Cause,summary,1385852
+2893,Susceptibility,summary,4253447
+2894,Other,factoid,2527490
+2895,Diagnosis,summary,2680780
+2896,Information,summary,2644644
+2897,Management,summary,853542
+2898,Management,yn; summary,4025719
+2899,Management,summary,2569594
+2900,Diagnosis,list,3447170
+2901,Manifestation,yn; summary,1438818
+2902,Other,summary,225813
+2903,WebSearch,summary,3736392
+2904,Information,summary,3122285
+2905,Management,yn; summary,457173
+2906,Diagnosis,list,4063300
+2907,Prognosis,yn; summary,2852676
+2908,Management,list,357217
+2909,NotDisease,list,712851
+2910,Susceptibility,factoid,3444247
+2911,WebSearch,summary,1447322
+2912,Diagnosis,list,1971942
+2913,Diagnosis,summary,52623
+2914,Management,yn; summary,3066457
+2915,Diagnosis,factoid,251216
+2916,Diagnosis,summary,3814018
+2917,Anatomy,yn; summary,4434808
+2918,Management,yn; summary,3679382
+2919,Information,yn; summary,4192521
+2920,Cause,yn; summary,442347
+2921,Management,summary,3697113
+2922,Diagnosis,factoid,670965
+2923,Management,summary,1459712
+2924,Information,list,4250016
+2925,Susceptibility,yn; summary,942918
+2926,Other,summary,3616526
+2927,Other,yn; summary,3757477
+2928,PersonOrg,list,3880746
+2929,Information,summary,3636911
+2930,PersonOrg,list,4439319
+2931,NotDisease,summary,1025894
+2932,Cause,yn; summary,4166848
+2933,Information,summary,3327437
+2934,Management,list,1272632
+2935,Manifestation,list,3143044
+2936,Diagnosis,list,1312889
+2937,Diagnosis,summary,400153
+2938,Other,yn; summary,1149703
+2939,Management,list,2451090
+2940,Cause,list,975272
+2941,Management,summary,3567434
+2942,Cause,yn; summary,1228799
+2943,Diagnosis,summary,1099487
+2944,Diagnosis,summary,510332
+2945,Prognosis,factoid,482123
+2946,PersonOrg,list,3762757
+2947,Information,summary,2330726
+2948,Other,list,4200274
+2949,Prognosis,summary,116912
+2950,Susceptibility,factoid,760922
+2951,Prognosis,factoid,3003092
+2952,OtherEffect,summary,3135912
